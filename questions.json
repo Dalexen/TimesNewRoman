@@ -1,0 +1,6002 @@
+[
+  {
+    "id": 1,
+    "category": "Times New Roman",
+    "prompt": "Times New Roman was originally commissioned for which newspaper?",
+    "options": [
+      "The Times of London",
+      "The New York Times",
+      "The Washington Post",
+      "The Guardian"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 2,
+    "category": "Times New Roman",
+    "prompt": "In what year did Times New Roman first appear in print?",
+    "options": [
+      "1932",
+      "1928",
+      "1945",
+      "1901"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 3,
+    "category": "Times New Roman",
+    "prompt": "Who was the typographic advisor at The Times who directed the creation of the typeface?",
+    "options": [
+      "Stanley Morison",
+      "Eric Gill",
+      "Jan Tschichold",
+      "Frederic Goudy"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 4,
+    "category": "Times New Roman",
+    "prompt": "Who was the Monotype draftsman who physically drew the letterforms under Morison's direction?",
+    "options": [
+      "Victor Lardent",
+      "Matthew Carter",
+      "Adrian Frutiger",
+      "Hermann Zapf"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 5,
+    "category": "Times New Roman",
+    "prompt": "Times New Roman replaced an older typeface previously used by The Times called what?",
+    "options": [
+      "Times Old Roman",
+      "Plantin",
+      "Century",
+      "Baskerville"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 6,
+    "category": "Times New Roman",
+    "prompt": "Which company originally produced and licensed Times New Roman?",
+    "options": [
+      "Monotype",
+      "Linotype",
+      "Adobe",
+      "American Type Founders"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 7,
+    "category": "Times New Roman",
+    "prompt": "What broad classification of serif typeface is Times New Roman usually placed in?",
+    "options": [
+      "Transitional serif",
+      "Slab serif",
+      "Humanist sans-serif",
+      "Blackletter"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 8,
+    "category": "Times New Roman",
+    "prompt": "For rival hot-metal typesetting machines, a very similar cut of the design was sold under a different name. What was it commonly called?",
+    "options": [
+      "Times Roman",
+      "Times Classic",
+      "Times Modern",
+      "Times Standard"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 9,
+    "category": "Times New Roman",
+    "prompt": "For many years, Times New Roman was the default body font in which widely used word processor?",
+    "options": [
+      "Microsoft Word",
+      "Google Docs",
+      "WordPerfect",
+      "Apple Pages"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 10,
+    "category": "Times New Roman",
+    "prompt": "Microsoft Word switched its default font away from Times New Roman/Arial in 2007 to which typeface?",
+    "options": [
+      "Calibri",
+      "Cambria",
+      "Georgia",
+      "Segoe UI"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 11,
+    "category": "Times New Roman",
+    "prompt": "Times New Roman is designed to be relatively space-efficient, which was part of its original goal for a newspaper. What was that goal generally about?",
+    "options": [
+      "Fitting more text into limited column width",
+      "Making headlines louder",
+      "Reducing ink usage in color printing",
+      "Simplifying handwriting instruction"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 12,
+    "category": "Times New Roman",
+    "prompt": "A metrically-compatible, open-source alternative to Times New Roman, used by Google Fonts and LibreOffice, is called what?",
+    "options": [
+      "Tinos",
+      "Liberation Serif",
+      "PT Serif",
+      "Noto Serif"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 13,
+    "category": "Times New Roman",
+    "prompt": "Does Times New Roman belong to the serif or sans-serif family of typefaces?",
+    "options": [
+      "Serif",
+      "Sans-serif",
+      "Monospace",
+      "Script"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 14,
+    "category": "Times New Roman",
+    "prompt": "Times New Roman has noticeably short, blunt serifs compared to older typefaces like Garamond. What typeface era does this transitional style bridge?",
+    "options": [
+      "Old-style and modern (didone) serif design",
+      "Blackletter and roman type",
+      "Wood type and metal type",
+      "Handwriting and calligraphy"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 15,
+    "category": "Times New Roman",
+    "prompt": "Roughly how many years after its 1932 debut did Times New Roman remain Microsoft Word's default font before being replaced?",
+    "options": [
+      "About 75 years",
+      "About 10 years",
+      "About 40 years",
+      "About 150 years"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 16,
+    "category": "Times New Roman",
+    "prompt": "Times New Roman is named after which publication rather than after its designer, unlike many classic typefaces (e.g. Baskerville, Garamond).",
+    "options": [
+      "The Times",
+      "Life Magazine",
+      "National Geographic",
+      "The New Yorker"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 17,
+    "category": "Times New Roman",
+    "prompt": "What was one of the stated design goals for the original Times New Roman commission, alongside legibility?",
+    "options": [
+      "Economical use of newsprint space",
+      "Maximum decorative flourish",
+      "Compatibility with typewriters only",
+      "Exclusive use for headlines"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 18,
+    "category": "Times New Roman",
+    "prompt": "Times New Roman's design was partly a reaction against an older Times typeface that Morison considered what?",
+    "options": [
+      "Too worn and old-fashioned for clear printing",
+      "Too modern and geometric",
+      "Too expensive to license",
+      "Too similar to handwriting"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 19,
+    "category": "Times New Roman",
+    "prompt": "On a typical printed page set in Times New Roman, is the typeface generally considered fairly narrow/condensed or wide, compared to many contemporaries?",
+    "options": [
+      "Fairly narrow/condensed",
+      "Extremely wide",
+      "Monospaced",
+      "Extra bold by default"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 20,
+    "category": "Times New Roman",
+    "prompt": "Since Times New Roman is a licensed Monotype design, which company's very similar competing cut was called 'Times Roman'?",
+    "options": [
+      "Linotype",
+      "Adobe",
+      "Bitstream",
+      "URW"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 21,
+    "category": "Printing History",
+    "prompt": "Johannes Gutenberg's movable-type printing press is generally dated to around which century?",
+    "options": [
+      "The 15th century",
+      "The 10th century",
+      "The 18th century",
+      "The 12th century"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 22,
+    "category": "Printing History",
+    "prompt": "Which German city is most associated with Gutenberg's early printing press?",
+    "options": [
+      "Mainz",
+      "Berlin",
+      "Munich",
+      "Hamburg"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 23,
+    "category": "Printing History",
+    "prompt": "The Linotype machine, which cast an entire line of type at once from molten metal, was invented by whom?",
+    "options": [
+      "Ottmar Mergenthaler",
+      "Johannes Gutenberg",
+      "Tolbert Lanston",
+      "Frederic Goudy"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 24,
+    "category": "Printing History",
+    "prompt": "The Monotype Corporation's casting system, a rival to Linotype, cast type in what unit?",
+    "options": [
+      "Individual characters",
+      "Whole lines",
+      "Whole pages",
+      "Whole paragraphs"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 25,
+    "category": "Printing History",
+    "prompt": "What is the general term for casting metal type from molten lead alloy for printing, as done by Linotype and Monotype machines?",
+    "options": [
+      "Hot metal typesetting",
+      "Cold type typesetting",
+      "Phototypesetting",
+      "Digital typesetting"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 26,
+    "category": "Printing History",
+    "prompt": "What printing method uses raised, inked surfaces pressed directly onto paper?",
+    "options": [
+      "Letterpress",
+      "Offset lithography",
+      "Screen printing",
+      "Digital inkjet"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 27,
+    "category": "Printing History",
+    "prompt": "TrueType, a widely used digital font format, was originally developed by which company?",
+    "options": [
+      "Apple",
+      "Microsoft",
+      "Adobe",
+      "IBM"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 28,
+    "category": "Printing History",
+    "prompt": "OpenType, a font format that unified earlier rival formats, was jointly developed by Microsoft and which other company?",
+    "options": [
+      "Adobe",
+      "Apple",
+      "Google",
+      "IBM"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 29,
+    "category": "Printing History",
+    "prompt": "What term describes reusable, individually cast pieces of type that can be rearranged for different pages?",
+    "options": [
+      "Movable type",
+      "Fixed type",
+      "Composite type",
+      "Static type"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 30,
+    "category": "Printing History",
+    "prompt": "Which type designer created both Verdana and Georgia for Microsoft, aimed at improving on-screen readability?",
+    "options": [
+      "Matthew Carter",
+      "Hermann Zapf",
+      "Adrian Frutiger",
+      "Eric Gill"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 31,
+    "category": "Typeface Designers",
+    "prompt": "Who designed the typeface Times New Roman?",
+    "options": [
+      "Adrian Frutiger",
+      "Stanley Morison & Victor Lardent",
+      "Herb Lubalin & Tom Carnase",
+      "Matthew Carter"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 32,
+    "category": "Typeface Designers",
+    "prompt": "Times New Roman is a typeface created by which designer?",
+    "options": [
+      "Max Miedinger",
+      "Herb Lubalin & Tom Carnase",
+      "Stanley Morison & Victor Lardent",
+      "Matthew Carter"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 33,
+    "category": "Typeface Designers",
+    "prompt": "Which designer is credited with creating Times New Roman?",
+    "options": [
+      "Max Miedinger",
+      "Stanley Morison & Victor Lardent",
+      "Morris Fuller Benton",
+      "John Baskerville"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 34,
+    "category": "Typeface History",
+    "prompt": "In what year was the typeface Times New Roman first released?",
+    "options": [
+      "1994",
+      "1957",
+      "1932",
+      "1993"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 35,
+    "category": "Typeface History",
+    "prompt": "Times New Roman was released in which year?",
+    "options": [
+      "1932",
+      "2015",
+      "1798",
+      "2004"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 36,
+    "category": "Typeface History",
+    "prompt": "Which year marks the debut of the typeface Times New Roman?",
+    "options": [
+      "2010",
+      "2011",
+      "1798",
+      "1932"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 37,
+    "category": "Type Foundries",
+    "prompt": "Which type foundry or company released the typeface Times New Roman?",
+    "options": [
+      "Stempel",
+      "Apple",
+      "Monotype",
+      "Microsoft"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 38,
+    "category": "Type Foundries",
+    "prompt": "Times New Roman was released by which foundry or company?",
+    "options": [
+      "American Type Founders",
+      "Monotype",
+      "Caslon Foundry",
+      "Stempel"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 39,
+    "category": "Typeface Classification",
+    "prompt": "How is the typeface Times New Roman generally classified?",
+    "options": [
+      "novelty/script",
+      "slab serif",
+      "sans-serif",
+      "serif"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 40,
+    "category": "Typeface Classification",
+    "prompt": "Times New Roman belongs to which broad category of typeface?",
+    "options": [
+      "sans-serif",
+      "novelty/script",
+      "slab serif",
+      "serif"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 41,
+    "category": "Typeface Designers",
+    "prompt": "Who designed the typeface Helvetica?",
+    "options": [
+      "John Baskerville",
+      "Max Miedinger",
+      "Robin Nicholas & Patricia Saunders",
+      "Apple Type Team"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 42,
+    "category": "Typeface Designers",
+    "prompt": "Helvetica is a typeface created by which designer?",
+    "options": [
+      "Steve Matteson",
+      "Adrian Frutiger",
+      "Hermann Zapf",
+      "Max Miedinger"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 43,
+    "category": "Typeface Designers",
+    "prompt": "Which designer is credited with creating Helvetica?",
+    "options": [
+      "Firmin Didot",
+      "Steve Matteson",
+      "Max Miedinger",
+      "Giambattista Bodoni"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 44,
+    "category": "Typeface History",
+    "prompt": "In what year was the typeface Helvetica first released?",
+    "options": [
+      "1530s",
+      "1957",
+      "1970",
+      "1722"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 45,
+    "category": "Typeface History",
+    "prompt": "Helvetica was released in which year?",
+    "options": [
+      "1957",
+      "2010",
+      "1994",
+      "1992"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 46,
+    "category": "Typeface History",
+    "prompt": "Which year marks the debut of the typeface Helvetica?",
+    "options": [
+      "2011",
+      "1934",
+      "1993",
+      "1957"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 47,
+    "category": "Type Foundries",
+    "prompt": "Which type foundry or company released the typeface Helvetica?",
+    "options": [
+      "Google",
+      "Microsoft",
+      "American Type Founders",
+      "Haas Type Foundry"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 48,
+    "category": "Type Foundries",
+    "prompt": "Helvetica was released by which foundry or company?",
+    "options": [
+      "Microsoft",
+      "Haas Type Foundry",
+      "Apple",
+      "Monotype/Microsoft"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 49,
+    "category": "Typeface Classification",
+    "prompt": "How is the typeface Helvetica generally classified?",
+    "options": [
+      "novelty/script",
+      "sans-serif",
+      "slab serif",
+      "serif"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 50,
+    "category": "Typeface Classification",
+    "prompt": "Helvetica belongs to which broad category of typeface?",
+    "options": [
+      "sans-serif",
+      "slab serif",
+      "novelty/script",
+      "serif"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 51,
+    "category": "Typeface Designers",
+    "prompt": "Who designed the typeface Garamond?",
+    "options": [
+      "Lukasz Dziedzic",
+      "Vincent Connare",
+      "Frederic Goudy",
+      "Claude Garamond"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 52,
+    "category": "Typeface Designers",
+    "prompt": "Garamond is a typeface created by which designer?",
+    "options": [
+      "Giambattista Bodoni",
+      "Carol Twombly",
+      "Steve Matteson",
+      "Claude Garamond"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 53,
+    "category": "Typeface Designers",
+    "prompt": "Which designer is credited with creating Garamond?",
+    "options": [
+      "Claude Garamond",
+      "Paul Renner",
+      "Christian Robertson",
+      "Matthew Carter"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 54,
+    "category": "Typeface History",
+    "prompt": "In what year was the typeface Garamond first released?",
+    "options": [
+      "1989",
+      "2011",
+      "1902",
+      "1530s"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 55,
+    "category": "Typeface History",
+    "prompt": "Garamond was released in which year?",
+    "options": [
+      "2015",
+      "1957",
+      "1915",
+      "1530s"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 56,
+    "category": "Typeface History",
+    "prompt": "Which year marks the debut of the typeface Garamond?",
+    "options": [
+      "1530s",
+      "2007",
+      "1982",
+      "1957"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 57,
+    "category": "Typeface Classification",
+    "prompt": "How is the typeface Garamond generally classified?",
+    "options": [
+      "novelty/script",
+      "serif",
+      "sans-serif",
+      "slab serif"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 58,
+    "category": "Typeface Classification",
+    "prompt": "Garamond belongs to which broad category of typeface?",
+    "options": [
+      "sans-serif",
+      "serif",
+      "novelty/script",
+      "slab serif"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 59,
+    "category": "Typeface Designers",
+    "prompt": "Who designed the typeface Futura?",
+    "options": [
+      "Paul Renner",
+      "Max Miedinger",
+      "Lukasz Dziedzic",
+      "Giambattista Bodoni"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 60,
+    "category": "Typeface Designers",
+    "prompt": "Futura is a typeface created by which designer?",
+    "options": [
+      "Julieta Ulanovsky",
+      "Monotype Design Studio",
+      "Claude Garamond",
+      "Paul Renner"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 61,
+    "category": "Typeface Designers",
+    "prompt": "Which designer is credited with creating Futura?",
+    "options": [
+      "Paul Renner",
+      "Eric Gill",
+      "Jelle Bosma, Steve Matteson & Robin Nicholas",
+      "Carol Twombly"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 62,
+    "category": "Typeface History",
+    "prompt": "In what year was the typeface Futura first released?",
+    "options": [
+      "1976",
+      "2011",
+      "1992",
+      "1927"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 63,
+    "category": "Typeface History",
+    "prompt": "Futura was released in which year?",
+    "options": [
+      "1932",
+      "1976",
+      "1927",
+      "1991"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 64,
+    "category": "Type Foundries",
+    "prompt": "Futura was released by which foundry or company?",
+    "options": [
+      "Adobe",
+      "Deberny et Peignot",
+      "Bauer Type Foundry",
+      "Monotype"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 65,
+    "category": "Typeface Classification",
+    "prompt": "How is the typeface Futura generally classified?",
+    "options": [
+      "novelty/script",
+      "slab serif",
+      "sans-serif",
+      "serif"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 66,
+    "category": "Typeface Classification",
+    "prompt": "Futura belongs to which broad category of typeface?",
+    "options": [
+      "slab serif",
+      "novelty/script",
+      "serif",
+      "sans-serif"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 67,
+    "category": "Typeface Designers",
+    "prompt": "Who designed the typeface Gill Sans?",
+    "options": [
+      "Matthew Carter",
+      "Herb Lubalin & Tom Carnase",
+      "Eric Gill",
+      "Firmin Didot"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 68,
+    "category": "Typeface Designers",
+    "prompt": "Gill Sans is a typeface created by which designer?",
+    "options": [
+      "Eric Gill",
+      "Max Miedinger",
+      "Carol Twombly",
+      "Giambattista Bodoni"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 69,
+    "category": "Typeface Designers",
+    "prompt": "Which designer is credited with creating Gill Sans?",
+    "options": [
+      "Vincent Connare",
+      "Max Miedinger",
+      "Giambattista Bodoni",
+      "Eric Gill"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 70,
+    "category": "Typeface History",
+    "prompt": "In what year was the typeface Gill Sans first released?",
+    "options": [
+      "1970",
+      "1928",
+      "1994",
+      "2007"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 71,
+    "category": "Typeface History",
+    "prompt": "Gill Sans was released in which year?",
+    "options": [
+      "1902",
+      "1970",
+      "1799",
+      "1928"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 72,
+    "category": "Typeface History",
+    "prompt": "Which year marks the debut of the typeface Gill Sans?",
+    "options": [
+      "1976",
+      "1989",
+      "1928",
+      "2015"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 73,
+    "category": "Type Foundries",
+    "prompt": "Gill Sans was released by which foundry or company?",
+    "options": [
+      "Haas Type Foundry",
+      "Microsoft",
+      "Monotype",
+      "Apple"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 74,
+    "category": "Typeface Classification",
+    "prompt": "How is the typeface Gill Sans generally classified?",
+    "options": [
+      "serif",
+      "sans-serif",
+      "slab serif",
+      "novelty/script"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 75,
+    "category": "Typeface Classification",
+    "prompt": "Gill Sans belongs to which broad category of typeface?",
+    "options": [
+      "serif",
+      "slab serif",
+      "novelty/script",
+      "sans-serif"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 76,
+    "category": "Typeface Designers",
+    "prompt": "Who designed the typeface Baskerville?",
+    "options": [
+      "Adrian Frutiger",
+      "Eric Gill",
+      "John Baskerville",
+      "Steve Matteson"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 77,
+    "category": "Typeface Designers",
+    "prompt": "Baskerville is a typeface created by which designer?",
+    "options": [
+      "John Baskerville",
+      "Matthew Carter",
+      "Robin Nicholas & Patricia Saunders",
+      "Apple Type Team"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 78,
+    "category": "Typeface Designers",
+    "prompt": "Which designer is credited with creating Baskerville?",
+    "options": [
+      "Firmin Didot",
+      "John Baskerville",
+      "Monotype Design Studio",
+      "Eric Gill"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 79,
+    "category": "Typeface History",
+    "prompt": "In what year was the typeface Baskerville first released?",
+    "options": [
+      "1757",
+      "1958",
+      "1970",
+      "1902"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 80,
+    "category": "Typeface History",
+    "prompt": "Baskerville was released in which year?",
+    "options": [
+      "2010",
+      "1757",
+      "1948",
+      "2011"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 81,
+    "category": "Typeface History",
+    "prompt": "Which year marks the debut of the typeface Baskerville?",
+    "options": [
+      "1934",
+      "1757",
+      "1982",
+      "1957"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 82,
+    "category": "Typeface Classification",
+    "prompt": "How is the typeface Baskerville generally classified?",
+    "options": [
+      "serif",
+      "slab serif",
+      "sans-serif",
+      "novelty/script"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 83,
+    "category": "Typeface Classification",
+    "prompt": "Baskerville belongs to which broad category of typeface?",
+    "options": [
+      "serif",
+      "slab serif",
+      "sans-serif",
+      "novelty/script"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 84,
+    "category": "Typeface Designers",
+    "prompt": "Who designed the typeface Bodoni?",
+    "options": [
+      "Herb Lubalin & Tom Carnase",
+      "John Baskerville",
+      "Giambattista Bodoni",
+      "Adrian Frutiger"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 85,
+    "category": "Typeface Designers",
+    "prompt": "Bodoni is a typeface created by which designer?",
+    "options": [
+      "Herb Lubalin & Tom Carnase",
+      "Giambattista Bodoni",
+      "Paul Renner",
+      "Frederic Goudy"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 86,
+    "category": "Typeface Designers",
+    "prompt": "Which designer is credited with creating Bodoni?",
+    "options": [
+      "Giambattista Bodoni",
+      "John Baskerville",
+      "Carol Twombly",
+      "Steve Matteson"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 87,
+    "category": "Typeface History",
+    "prompt": "In what year was the typeface Bodoni first released?",
+    "options": [
+      "2011",
+      "2007",
+      "2004",
+      "1798"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 88,
+    "category": "Typeface History",
+    "prompt": "Bodoni was released in which year?",
+    "options": [
+      "1722",
+      "1798",
+      "1970",
+      "1932"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 89,
+    "category": "Typeface History",
+    "prompt": "Which year marks the debut of the typeface Bodoni?",
+    "options": [
+      "1976",
+      "1927",
+      "1798",
+      "2010"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 90,
+    "category": "Typeface Classification",
+    "prompt": "How is the typeface Bodoni generally classified?",
+    "options": [
+      "serif",
+      "novelty/script",
+      "sans-serif",
+      "slab serif"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 91,
+    "category": "Typeface Classification",
+    "prompt": "Bodoni belongs to which broad category of typeface?",
+    "options": [
+      "novelty/script",
+      "slab serif",
+      "sans-serif",
+      "serif"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 92,
+    "category": "Typeface Designers",
+    "prompt": "Who designed the typeface Caslon?",
+    "options": [
+      "Hermann Zapf",
+      "William Caslon",
+      "Firmin Didot",
+      "Monotype Design Studio"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 93,
+    "category": "Typeface Designers",
+    "prompt": "Caslon is a typeface created by which designer?",
+    "options": [
+      "William Caslon",
+      "Vincent Connare",
+      "Paul Renner",
+      "Adrian Frutiger"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 94,
+    "category": "Typeface Designers",
+    "prompt": "Which designer is credited with creating Caslon?",
+    "options": [
+      "William Caslon",
+      "Steve Matteson",
+      "Firmin Didot",
+      "Stanley Morison & Victor Lardent"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 95,
+    "category": "Typeface History",
+    "prompt": "In what year was the typeface Caslon first released?",
+    "options": [
+      "1927",
+      "1530s",
+      "1932",
+      "1722"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 96,
+    "category": "Typeface History",
+    "prompt": "Caslon was released in which year?",
+    "options": [
+      "1722",
+      "1992",
+      "2011",
+      "1970"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 97,
+    "category": "Typeface History",
+    "prompt": "Which year marks the debut of the typeface Caslon?",
+    "options": [
+      "2004",
+      "1902",
+      "1722",
+      "1992"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 98,
+    "category": "Type Foundries",
+    "prompt": "Which type foundry or company released the typeface Caslon?",
+    "options": [
+      "American Type Founders",
+      "Haas Type Foundry",
+      "Stempel",
+      "Caslon Foundry"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 99,
+    "category": "Type Foundries",
+    "prompt": "Caslon was released by which foundry or company?",
+    "options": [
+      "Caslon Foundry",
+      "Stempel",
+      "American Type Founders",
+      "Microsoft"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 100,
+    "category": "Typeface Classification",
+    "prompt": "How is the typeface Caslon generally classified?",
+    "options": [
+      "slab serif",
+      "serif",
+      "sans-serif",
+      "novelty/script"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 101,
+    "category": "Typeface Classification",
+    "prompt": "Caslon belongs to which broad category of typeface?",
+    "options": [
+      "serif",
+      "novelty/script",
+      "slab serif",
+      "sans-serif"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 102,
+    "category": "Typeface Designers",
+    "prompt": "Who designed the typeface Comic Sans?",
+    "options": [
+      "Stanley Morison & Victor Lardent",
+      "Vincent Connare",
+      "Herb Lubalin & Tom Carnase",
+      "Firmin Didot"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 103,
+    "category": "Typeface Designers",
+    "prompt": "Comic Sans is a typeface created by which designer?",
+    "options": [
+      "Robert Slimbach & Carol Twombly",
+      "Robin Nicholas & Patricia Saunders",
+      "Vincent Connare",
+      "William Caslon"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 104,
+    "category": "Typeface Designers",
+    "prompt": "Which designer is credited with creating Comic Sans?",
+    "options": [
+      "Paul Renner",
+      "Stanley Morison & Victor Lardent",
+      "Vincent Connare",
+      "Carol Twombly"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 105,
+    "category": "Typeface History",
+    "prompt": "In what year was the typeface Comic Sans first released?",
+    "options": [
+      "2004",
+      "1958",
+      "1994",
+      "1932"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 106,
+    "category": "Typeface History",
+    "prompt": "Comic Sans was released in which year?",
+    "options": [
+      "2015",
+      "2004",
+      "1757",
+      "1994"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 107,
+    "category": "Typeface History",
+    "prompt": "Which year marks the debut of the typeface Comic Sans?",
+    "options": [
+      "1934",
+      "1994",
+      "1722",
+      "1996"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 108,
+    "category": "Type Foundries",
+    "prompt": "Which type foundry or company released the typeface Comic Sans?",
+    "options": [
+      "International Typeface Corporation",
+      "Haas Type Foundry",
+      "Monotype",
+      "Microsoft"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 109,
+    "category": "Type Foundries",
+    "prompt": "Comic Sans was released by which foundry or company?",
+    "options": [
+      "Google",
+      "Bauer Type Foundry",
+      "Microsoft",
+      "American Type Founders"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 110,
+    "category": "Typeface Classification",
+    "prompt": "How is the typeface Comic Sans generally classified?",
+    "options": [
+      "novelty/script",
+      "sans-serif",
+      "slab serif",
+      "serif"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 111,
+    "category": "Typeface Classification",
+    "prompt": "Comic Sans belongs to which broad category of typeface?",
+    "options": [
+      "novelty/script",
+      "sans-serif",
+      "slab serif",
+      "serif"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 112,
+    "category": "Typeface Designers",
+    "prompt": "Who designed the typeface Arial?",
+    "options": [
+      "Robert Slimbach & Carol Twombly",
+      "Robin Nicholas & Patricia Saunders",
+      "Apple Type Team",
+      "Firmin Didot"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 113,
+    "category": "Typeface Designers",
+    "prompt": "Arial is a typeface created by which designer?",
+    "options": [
+      "Max Miedinger",
+      "Apple Type Team",
+      "Robin Nicholas & Patricia Saunders",
+      "William Caslon"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 114,
+    "category": "Typeface Designers",
+    "prompt": "Which designer is credited with creating Arial?",
+    "options": [
+      "Adrian Frutiger",
+      "Lucas de Groot",
+      "Robin Nicholas & Patricia Saunders",
+      "Firmin Didot"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 115,
+    "category": "Typeface History",
+    "prompt": "In what year was the typeface Arial first released?",
+    "options": [
+      "1530s",
+      "1957",
+      "2010",
+      "1982"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 116,
+    "category": "Typeface History",
+    "prompt": "Arial was released in which year?",
+    "options": [
+      "1757",
+      "1948",
+      "2007",
+      "1982"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 117,
+    "category": "Typeface History",
+    "prompt": "Which year marks the debut of the typeface Arial?",
+    "options": [
+      "1932",
+      "1996",
+      "1957",
+      "1982"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 118,
+    "category": "Type Foundries",
+    "prompt": "Which type foundry or company released the typeface Arial?",
+    "options": [
+      "Monotype",
+      "Haas Type Foundry",
+      "Google",
+      "Stempel"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 119,
+    "category": "Type Foundries",
+    "prompt": "Arial was released by which foundry or company?",
+    "options": [
+      "Adobe",
+      "Monotype",
+      "Deberny et Peignot",
+      "Apple"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 120,
+    "category": "Typeface Classification",
+    "prompt": "How is the typeface Arial generally classified?",
+    "options": [
+      "novelty/script",
+      "sans-serif",
+      "slab serif",
+      "serif"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 121,
+    "category": "Typeface Classification",
+    "prompt": "Arial belongs to which broad category of typeface?",
+    "options": [
+      "slab serif",
+      "serif",
+      "sans-serif",
+      "novelty/script"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 122,
+    "category": "Typeface Designers",
+    "prompt": "Who designed the typeface Georgia?",
+    "options": [
+      "Apple Type Team",
+      "Firmin Didot",
+      "Matthew Carter",
+      "Eric Gill"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 123,
+    "category": "Typeface Designers",
+    "prompt": "Georgia is a typeface created by which designer?",
+    "options": [
+      "Matthew Carter",
+      "Monotype Design Studio",
+      "Vincent Connare",
+      "Eric Gill"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 124,
+    "category": "Typeface Designers",
+    "prompt": "Which designer is credited with creating Georgia?",
+    "options": [
+      "Matthew Carter",
+      "Giambattista Bodoni",
+      "Stanley Morison & Victor Lardent",
+      "Herb Lubalin & Tom Carnase"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 125,
+    "category": "Typeface History",
+    "prompt": "In what year was the typeface Georgia first released?",
+    "options": [
+      "1958",
+      "2011",
+      "1970",
+      "1993"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 126,
+    "category": "Typeface History",
+    "prompt": "Georgia was released in which year?",
+    "options": [
+      "2010",
+      "2011",
+      "1970",
+      "1993"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 127,
+    "category": "Typeface History",
+    "prompt": "Which year marks the debut of the typeface Georgia?",
+    "options": [
+      "1976",
+      "1993",
+      "2004",
+      "1957"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 128,
+    "category": "Type Foundries",
+    "prompt": "Which type foundry or company released the typeface Georgia?",
+    "options": [
+      "Microsoft",
+      "Adobe",
+      "Monotype",
+      "American Type Founders"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 129,
+    "category": "Type Foundries",
+    "prompt": "Georgia was released by which foundry or company?",
+    "options": [
+      "Monotype/Microsoft",
+      "Haas Type Foundry",
+      "International Typeface Corporation",
+      "Microsoft"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 130,
+    "category": "Typeface Classification",
+    "prompt": "How is the typeface Georgia generally classified?",
+    "options": [
+      "slab serif",
+      "sans-serif",
+      "novelty/script",
+      "serif"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 131,
+    "category": "Typeface Classification",
+    "prompt": "Georgia belongs to which broad category of typeface?",
+    "options": [
+      "novelty/script",
+      "sans-serif",
+      "slab serif",
+      "serif"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 132,
+    "category": "Typeface Designers",
+    "prompt": "Who designed the typeface Verdana?",
+    "options": [
+      "Claude Garamond",
+      "Giambattista Bodoni",
+      "Matthew Carter",
+      "Carol Twombly"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 133,
+    "category": "Typeface Designers",
+    "prompt": "Verdana is a typeface created by which designer?",
+    "options": [
+      "Julieta Ulanovsky",
+      "Matthew Carter",
+      "Vincent Connare",
+      "Max Miedinger"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 134,
+    "category": "Typeface Designers",
+    "prompt": "Which designer is credited with creating Verdana?",
+    "options": [
+      "Adrian Frutiger",
+      "Lukasz Dziedzic",
+      "John Baskerville",
+      "Matthew Carter"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 135,
+    "category": "Typeface History",
+    "prompt": "In what year was the typeface Verdana first released?",
+    "options": [
+      "1902",
+      "1996",
+      "1530s",
+      "1799"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 136,
+    "category": "Typeface History",
+    "prompt": "Verdana was released in which year?",
+    "options": [
+      "1530s",
+      "1996",
+      "1757",
+      "1927"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 137,
+    "category": "Typeface History",
+    "prompt": "Which year marks the debut of the typeface Verdana?",
+    "options": [
+      "2004",
+      "1928",
+      "1996",
+      "1902"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 138,
+    "category": "Type Foundries",
+    "prompt": "Which type foundry or company released the typeface Verdana?",
+    "options": [
+      "Microsoft",
+      "Monotype",
+      "Stempel",
+      "International Typeface Corporation"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 139,
+    "category": "Type Foundries",
+    "prompt": "Verdana was released by which foundry or company?",
+    "options": [
+      "Microsoft",
+      "Deberny et Peignot",
+      "Adobe",
+      "Stempel"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 140,
+    "category": "Typeface Classification",
+    "prompt": "How is the typeface Verdana generally classified?",
+    "options": [
+      "novelty/script",
+      "serif",
+      "sans-serif",
+      "slab serif"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 141,
+    "category": "Typeface Classification",
+    "prompt": "Verdana belongs to which broad category of typeface?",
+    "options": [
+      "serif",
+      "novelty/script",
+      "slab serif",
+      "sans-serif"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 142,
+    "category": "Typeface Designers",
+    "prompt": "Who designed the typeface Palatino?",
+    "options": [
+      "Monotype Design Studio",
+      "Hermann Zapf",
+      "Christian Robertson",
+      "Giambattista Bodoni"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 143,
+    "category": "Typeface Designers",
+    "prompt": "Palatino is a typeface created by which designer?",
+    "options": [
+      "Hermann Zapf",
+      "Giambattista Bodoni",
+      "Lukasz Dziedzic",
+      "Christian Robertson"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 144,
+    "category": "Typeface Designers",
+    "prompt": "Which designer is credited with creating Palatino?",
+    "options": [
+      "Christian Robertson",
+      "Monotype Design Studio",
+      "Herb Lubalin & Tom Carnase",
+      "Hermann Zapf"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 145,
+    "category": "Typeface History",
+    "prompt": "In what year was the typeface Palatino first released?",
+    "options": [
+      "2004",
+      "1948",
+      "2010",
+      "1982"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 146,
+    "category": "Typeface History",
+    "prompt": "Palatino was released in which year?",
+    "options": [
+      "2011",
+      "1948",
+      "2015",
+      "1928"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 147,
+    "category": "Typeface History",
+    "prompt": "Which year marks the debut of the typeface Palatino?",
+    "options": [
+      "1948",
+      "1722",
+      "1993",
+      "1970"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 148,
+    "category": "Type Foundries",
+    "prompt": "Which type foundry or company released the typeface Palatino?",
+    "options": [
+      "Monotype/Microsoft",
+      "Stempel",
+      "Monotype",
+      "Google"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 149,
+    "category": "Type Foundries",
+    "prompt": "Palatino was released by which foundry or company?",
+    "options": [
+      "Microsoft",
+      "Apple",
+      "Adobe",
+      "Stempel"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 150,
+    "category": "Typeface Classification",
+    "prompt": "How is the typeface Palatino generally classified?",
+    "options": [
+      "sans-serif",
+      "novelty/script",
+      "slab serif",
+      "serif"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 151,
+    "category": "Typeface Classification",
+    "prompt": "Palatino belongs to which broad category of typeface?",
+    "options": [
+      "slab serif",
+      "novelty/script",
+      "sans-serif",
+      "serif"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 152,
+    "category": "Typeface Designers",
+    "prompt": "Who designed the typeface Optima?",
+    "options": [
+      "Firmin Didot",
+      "Christian Robertson",
+      "Hermann Zapf",
+      "Stanley Morison & Victor Lardent"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 153,
+    "category": "Typeface Designers",
+    "prompt": "Optima is a typeface created by which designer?",
+    "options": [
+      "Paul Renner",
+      "Hermann Zapf",
+      "Lucas de Groot",
+      "Steve Matteson"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 154,
+    "category": "Typeface Designers",
+    "prompt": "Which designer is credited with creating Optima?",
+    "options": [
+      "Jelle Bosma, Steve Matteson & Robin Nicholas",
+      "Adrian Frutiger",
+      "Eric Gill",
+      "Hermann Zapf"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 155,
+    "category": "Typeface History",
+    "prompt": "In what year was the typeface Optima first released?",
+    "options": [
+      "1927",
+      "1934",
+      "1958",
+      "1932"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 156,
+    "category": "Typeface History",
+    "prompt": "Optima was released in which year?",
+    "options": [
+      "1958",
+      "1932",
+      "1996",
+      "1982"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 157,
+    "category": "Typeface History",
+    "prompt": "Which year marks the debut of the typeface Optima?",
+    "options": [
+      "1928",
+      "1957",
+      "2004",
+      "1958"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 158,
+    "category": "Type Foundries",
+    "prompt": "Which type foundry or company released the typeface Optima?",
+    "options": [
+      "Monotype/Microsoft",
+      "Microsoft",
+      "Stempel",
+      "Adobe"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 159,
+    "category": "Typeface Classification",
+    "prompt": "How is the typeface Optima generally classified?",
+    "options": [
+      "sans-serif",
+      "serif",
+      "slab serif",
+      "novelty/script"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 160,
+    "category": "Typeface Classification",
+    "prompt": "Optima belongs to which broad category of typeface?",
+    "options": [
+      "slab serif",
+      "serif",
+      "novelty/script",
+      "sans-serif"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 161,
+    "category": "Typeface Designers",
+    "prompt": "Who designed the typeface Frutiger?",
+    "options": [
+      "William Caslon",
+      "Robin Nicholas & Patricia Saunders",
+      "Vincent Connare",
+      "Adrian Frutiger"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 162,
+    "category": "Typeface Designers",
+    "prompt": "Frutiger is a typeface created by which designer?",
+    "options": [
+      "Steve Matteson",
+      "Adrian Frutiger",
+      "Vincent Connare",
+      "Max Miedinger"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 163,
+    "category": "Typeface Designers",
+    "prompt": "Which designer is credited with creating Frutiger?",
+    "options": [
+      "Adrian Frutiger",
+      "Giambattista Bodoni",
+      "William Caslon",
+      "Herb Lubalin & Tom Carnase"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 164,
+    "category": "Typeface History",
+    "prompt": "In what year was the typeface Frutiger first released?",
+    "options": [
+      "1798",
+      "2015",
+      "1976",
+      "2004"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 165,
+    "category": "Typeface History",
+    "prompt": "Frutiger was released in which year?",
+    "options": [
+      "2011",
+      "1928",
+      "2015",
+      "1976"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 166,
+    "category": "Typeface History",
+    "prompt": "Which year marks the debut of the typeface Frutiger?",
+    "options": [
+      "1996",
+      "1976",
+      "1948",
+      "1799"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 167,
+    "category": "Type Foundries",
+    "prompt": "Frutiger was released by which foundry or company?",
+    "options": [
+      "Microsoft",
+      "Apple",
+      "Monotype/Microsoft",
+      "Stempel"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 168,
+    "category": "Typeface Classification",
+    "prompt": "How is the typeface Frutiger generally classified?",
+    "options": [
+      "serif",
+      "sans-serif",
+      "slab serif",
+      "novelty/script"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 169,
+    "category": "Typeface Classification",
+    "prompt": "Frutiger belongs to which broad category of typeface?",
+    "options": [
+      "slab serif",
+      "serif",
+      "novelty/script",
+      "sans-serif"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 170,
+    "category": "Typeface Designers",
+    "prompt": "Who designed the typeface Univers?",
+    "options": [
+      "Morris Fuller Benton",
+      "John Baskerville",
+      "Adrian Frutiger",
+      "Hermann Zapf"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 171,
+    "category": "Typeface Designers",
+    "prompt": "Which designer is credited with creating Univers?",
+    "options": [
+      "Steve Matteson",
+      "Julieta Ulanovsky",
+      "Firmin Didot",
+      "Adrian Frutiger"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 172,
+    "category": "Typeface History",
+    "prompt": "Univers was released in which year?",
+    "options": [
+      "2007",
+      "1928",
+      "1957",
+      "1927"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 173,
+    "category": "Typeface History",
+    "prompt": "Which year marks the debut of the typeface Univers?",
+    "options": [
+      "1957",
+      "1934",
+      "1992",
+      "1976"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 174,
+    "category": "Type Foundries",
+    "prompt": "Which type foundry or company released the typeface Univers?",
+    "options": [
+      "Google",
+      "Deberny et Peignot",
+      "Apple",
+      "Microsoft"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 175,
+    "category": "Type Foundries",
+    "prompt": "Univers was released by which foundry or company?",
+    "options": [
+      "Haas Type Foundry",
+      "Deberny et Peignot",
+      "Google",
+      "Adobe"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 176,
+    "category": "Typeface Classification",
+    "prompt": "How is the typeface Univers generally classified?",
+    "options": [
+      "slab serif",
+      "sans-serif",
+      "novelty/script",
+      "serif"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 177,
+    "category": "Typeface Classification",
+    "prompt": "Univers belongs to which broad category of typeface?",
+    "options": [
+      "slab serif",
+      "serif",
+      "sans-serif",
+      "novelty/script"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 178,
+    "category": "Typeface Designers",
+    "prompt": "Who designed the typeface Rockwell?",
+    "options": [
+      "Robin Nicholas & Patricia Saunders",
+      "Morris Fuller Benton",
+      "Monotype Design Studio",
+      "Christian Robertson"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 179,
+    "category": "Typeface Designers",
+    "prompt": "Rockwell is a typeface created by which designer?",
+    "options": [
+      "Matthew Carter",
+      "Steve Matteson",
+      "Firmin Didot",
+      "Monotype Design Studio"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 180,
+    "category": "Typeface Designers",
+    "prompt": "Which designer is credited with creating Rockwell?",
+    "options": [
+      "Carol Twombly",
+      "Eric Gill",
+      "Lukasz Dziedzic",
+      "Monotype Design Studio"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 181,
+    "category": "Typeface History",
+    "prompt": "In what year was the typeface Rockwell first released?",
+    "options": [
+      "1934",
+      "1799",
+      "1958",
+      "1915"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 182,
+    "category": "Typeface History",
+    "prompt": "Rockwell was released in which year?",
+    "options": [
+      "2011",
+      "1934",
+      "1757",
+      "1976"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 183,
+    "category": "Typeface History",
+    "prompt": "Which year marks the debut of the typeface Rockwell?",
+    "options": [
+      "1996",
+      "1934",
+      "2004",
+      "1757"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 184,
+    "category": "Type Foundries",
+    "prompt": "Which type foundry or company released the typeface Rockwell?",
+    "options": [
+      "Microsoft",
+      "Apple",
+      "Monotype",
+      "Google"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 185,
+    "category": "Type Foundries",
+    "prompt": "Rockwell was released by which foundry or company?",
+    "options": [
+      "Stempel",
+      "Microsoft",
+      "Monotype",
+      "Apple"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 186,
+    "category": "Typeface Classification",
+    "prompt": "How is the typeface Rockwell generally classified?",
+    "options": [
+      "serif",
+      "sans-serif",
+      "novelty/script",
+      "slab serif"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 187,
+    "category": "Typeface Classification",
+    "prompt": "Rockwell belongs to which broad category of typeface?",
+    "options": [
+      "slab serif",
+      "novelty/script",
+      "serif",
+      "sans-serif"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 188,
+    "category": "Typeface Designers",
+    "prompt": "Who designed the typeface Franklin Gothic?",
+    "options": [
+      "Morris Fuller Benton",
+      "Matthew Carter",
+      "Robin Nicholas & Patricia Saunders",
+      "Julieta Ulanovsky"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 189,
+    "category": "Typeface Designers",
+    "prompt": "Franklin Gothic is a typeface created by which designer?",
+    "options": [
+      "Apple Type Team",
+      "Carol Twombly",
+      "Morris Fuller Benton",
+      "Matthew Carter"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 190,
+    "category": "Typeface Designers",
+    "prompt": "Which designer is credited with creating Franklin Gothic?",
+    "options": [
+      "Monotype Design Studio",
+      "Morris Fuller Benton",
+      "Steve Matteson",
+      "Frederic Goudy"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 191,
+    "category": "Typeface History",
+    "prompt": "In what year was the typeface Franklin Gothic first released?",
+    "options": [
+      "1992",
+      "1902",
+      "2004",
+      "1530s"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 192,
+    "category": "Typeface History",
+    "prompt": "Franklin Gothic was released in which year?",
+    "options": [
+      "2011",
+      "1970",
+      "1957",
+      "1902"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 193,
+    "category": "Typeface History",
+    "prompt": "Which year marks the debut of the typeface Franklin Gothic?",
+    "options": [
+      "1902",
+      "1994",
+      "1991",
+      "2004"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 194,
+    "category": "Typeface Classification",
+    "prompt": "How is the typeface Franklin Gothic generally classified?",
+    "options": [
+      "sans-serif",
+      "serif",
+      "novelty/script",
+      "slab serif"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 195,
+    "category": "Typeface Classification",
+    "prompt": "Franklin Gothic belongs to which broad category of typeface?",
+    "options": [
+      "novelty/script",
+      "sans-serif",
+      "serif",
+      "slab serif"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 196,
+    "category": "Typeface Designers",
+    "prompt": "Who designed the typeface Century Gothic?",
+    "options": [
+      "Monotype Design Studio",
+      "Matthew Carter",
+      "Morris Fuller Benton",
+      "Claude Garamond"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 197,
+    "category": "Typeface Designers",
+    "prompt": "Century Gothic is a typeface created by which designer?",
+    "options": [
+      "Matthew Carter",
+      "Monotype Design Studio",
+      "Stanley Morison & Victor Lardent",
+      "Giambattista Bodoni"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 198,
+    "category": "Typeface Designers",
+    "prompt": "Which designer is credited with creating Century Gothic?",
+    "options": [
+      "Monotype Design Studio",
+      "Matthew Carter",
+      "Firmin Didot",
+      "Vincent Connare"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 199,
+    "category": "Typeface History",
+    "prompt": "In what year was the typeface Century Gothic first released?",
+    "options": [
+      "1915",
+      "1991",
+      "1982",
+      "1970"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 200,
+    "category": "Typeface History",
+    "prompt": "Century Gothic was released in which year?",
+    "options": [
+      "1530s",
+      "1991",
+      "1927",
+      "2010"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 201,
+    "category": "Typeface History",
+    "prompt": "Which year marks the debut of the typeface Century Gothic?",
+    "options": [
+      "1991",
+      "1982",
+      "1958",
+      "1530s"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 202,
+    "category": "Typeface Classification",
+    "prompt": "How is the typeface Century Gothic generally classified?",
+    "options": [
+      "slab serif",
+      "novelty/script",
+      "sans-serif",
+      "serif"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 203,
+    "category": "Typeface Classification",
+    "prompt": "Century Gothic belongs to which broad category of typeface?",
+    "options": [
+      "novelty/script",
+      "sans-serif",
+      "serif",
+      "slab serif"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 204,
+    "category": "Typeface Designers",
+    "prompt": "Who designed the typeface Didot?",
+    "options": [
+      "Firmin Didot",
+      "Herb Lubalin & Tom Carnase",
+      "Matthew Carter",
+      "Adrian Frutiger"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 205,
+    "category": "Typeface Designers",
+    "prompt": "Didot is a typeface created by which designer?",
+    "options": [
+      "Jelle Bosma, Steve Matteson & Robin Nicholas",
+      "Adrian Frutiger",
+      "Firmin Didot",
+      "Stanley Morison & Victor Lardent"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 206,
+    "category": "Typeface Designers",
+    "prompt": "Which designer is credited with creating Didot?",
+    "options": [
+      "Claude Garamond",
+      "Apple Type Team",
+      "Firmin Didot",
+      "Christian Robertson"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 207,
+    "category": "Typeface History",
+    "prompt": "In what year was the typeface Didot first released?",
+    "options": [
+      "1993",
+      "1799",
+      "1934",
+      "1992"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 208,
+    "category": "Typeface History",
+    "prompt": "Didot was released in which year?",
+    "options": [
+      "1799",
+      "1948",
+      "1927",
+      "1934"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 209,
+    "category": "Typeface History",
+    "prompt": "Which year marks the debut of the typeface Didot?",
+    "options": [
+      "2004",
+      "1799",
+      "1976",
+      "1932"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 210,
+    "category": "Typeface Classification",
+    "prompt": "How is the typeface Didot generally classified?",
+    "options": [
+      "slab serif",
+      "serif",
+      "sans-serif",
+      "novelty/script"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 211,
+    "category": "Typeface Classification",
+    "prompt": "Didot belongs to which broad category of typeface?",
+    "options": [
+      "novelty/script",
+      "sans-serif",
+      "serif",
+      "slab serif"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 212,
+    "category": "Typeface Designers",
+    "prompt": "Who designed the typeface Avant Garde?",
+    "options": [
+      "Giambattista Bodoni",
+      "Christian Robertson",
+      "Herb Lubalin & Tom Carnase",
+      "Eric Gill"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 213,
+    "category": "Typeface Designers",
+    "prompt": "Avant Garde is a typeface created by which designer?",
+    "options": [
+      "Robin Nicholas & Patricia Saunders",
+      "Herb Lubalin & Tom Carnase",
+      "Steve Matteson",
+      "Hermann Zapf"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 214,
+    "category": "Typeface Designers",
+    "prompt": "Which designer is credited with creating Avant Garde?",
+    "options": [
+      "Lucas de Groot",
+      "Monotype Design Studio",
+      "Lukasz Dziedzic",
+      "Herb Lubalin & Tom Carnase"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 215,
+    "category": "Typeface History",
+    "prompt": "In what year was the typeface Avant Garde first released?",
+    "options": [
+      "1970",
+      "1957",
+      "1934",
+      "1958"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 216,
+    "category": "Typeface History",
+    "prompt": "Avant Garde was released in which year?",
+    "options": [
+      "1993",
+      "1928",
+      "1970",
+      "1958"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 217,
+    "category": "Typeface History",
+    "prompt": "Which year marks the debut of the typeface Avant Garde?",
+    "options": [
+      "1934",
+      "1970",
+      "1994",
+      "2011"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 218,
+    "category": "Type Foundries",
+    "prompt": "Which type foundry or company released the typeface Avant Garde?",
+    "options": [
+      "International Typeface Corporation",
+      "Microsoft",
+      "Google",
+      "Monotype"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 219,
+    "category": "Type Foundries",
+    "prompt": "Avant Garde was released by which foundry or company?",
+    "options": [
+      "American Type Founders",
+      "Bauer Type Foundry",
+      "Monotype",
+      "International Typeface Corporation"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 220,
+    "category": "Typeface Classification",
+    "prompt": "How is the typeface Avant Garde generally classified?",
+    "options": [
+      "slab serif",
+      "serif",
+      "novelty/script",
+      "sans-serif"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 221,
+    "category": "Typeface Classification",
+    "prompt": "Avant Garde belongs to which broad category of typeface?",
+    "options": [
+      "novelty/script",
+      "sans-serif",
+      "slab serif",
+      "serif"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 222,
+    "category": "Typeface Designers",
+    "prompt": "Who designed the typeface Myriad?",
+    "options": [
+      "Steve Matteson",
+      "Firmin Didot",
+      "Lucas de Groot",
+      "Robert Slimbach & Carol Twombly"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 223,
+    "category": "Typeface Designers",
+    "prompt": "Myriad is a typeface created by which designer?",
+    "options": [
+      "Apple Type Team",
+      "Matthew Carter",
+      "Herb Lubalin & Tom Carnase",
+      "Robert Slimbach & Carol Twombly"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 224,
+    "category": "Typeface Designers",
+    "prompt": "Which designer is credited with creating Myriad?",
+    "options": [
+      "Adrian Frutiger",
+      "Julieta Ulanovsky",
+      "Robert Slimbach & Carol Twombly",
+      "Matthew Carter"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 225,
+    "category": "Typeface History",
+    "prompt": "In what year was the typeface Myriad first released?",
+    "options": [
+      "2010",
+      "1992",
+      "1970",
+      "1958"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 226,
+    "category": "Typeface History",
+    "prompt": "Myriad was released in which year?",
+    "options": [
+      "2015",
+      "1993",
+      "2010",
+      "1992"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 227,
+    "category": "Type Foundries",
+    "prompt": "Myriad was released by which foundry or company?",
+    "options": [
+      "Monotype",
+      "American Type Founders",
+      "Deberny et Peignot",
+      "Adobe"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 228,
+    "category": "Typeface Classification",
+    "prompt": "How is the typeface Myriad generally classified?",
+    "options": [
+      "sans-serif",
+      "slab serif",
+      "novelty/script",
+      "serif"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 229,
+    "category": "Typeface Classification",
+    "prompt": "Myriad belongs to which broad category of typeface?",
+    "options": [
+      "slab serif",
+      "sans-serif",
+      "novelty/script",
+      "serif"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 230,
+    "category": "Typeface Designers",
+    "prompt": "Who designed the typeface Trajan?",
+    "options": [
+      "Paul Renner",
+      "Carol Twombly",
+      "William Caslon",
+      "Morris Fuller Benton"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 231,
+    "category": "Typeface Designers",
+    "prompt": "Trajan is a typeface created by which designer?",
+    "options": [
+      "Eric Gill",
+      "Max Miedinger",
+      "Carol Twombly",
+      "Giambattista Bodoni"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 232,
+    "category": "Typeface Designers",
+    "prompt": "Which designer is credited with creating Trajan?",
+    "options": [
+      "Carol Twombly",
+      "Apple Type Team",
+      "Lucas de Groot",
+      "Steve Matteson"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 233,
+    "category": "Typeface History",
+    "prompt": "In what year was the typeface Trajan first released?",
+    "options": [
+      "1989",
+      "1948",
+      "1991",
+      "1934"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 234,
+    "category": "Typeface History",
+    "prompt": "Trajan was released in which year?",
+    "options": [
+      "1989",
+      "2015",
+      "1970",
+      "1799"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 235,
+    "category": "Typeface History",
+    "prompt": "Which year marks the debut of the typeface Trajan?",
+    "options": [
+      "1902",
+      "1989",
+      "1970",
+      "1799"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 236,
+    "category": "Type Foundries",
+    "prompt": "Which type foundry or company released the typeface Trajan?",
+    "options": [
+      "Stempel",
+      "Monotype",
+      "Google",
+      "Adobe"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 237,
+    "category": "Type Foundries",
+    "prompt": "Trajan was released by which foundry or company?",
+    "options": [
+      "Monotype",
+      "Deberny et Peignot",
+      "Bauer Type Foundry",
+      "Adobe"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 238,
+    "category": "Typeface Classification",
+    "prompt": "How is the typeface Trajan generally classified?",
+    "options": [
+      "novelty/script",
+      "sans-serif",
+      "serif",
+      "slab serif"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 239,
+    "category": "Typeface Classification",
+    "prompt": "Trajan belongs to which broad category of typeface?",
+    "options": [
+      "novelty/script",
+      "slab serif",
+      "serif",
+      "sans-serif"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 240,
+    "category": "Typeface Designers",
+    "prompt": "Who designed the typeface Goudy Old Style?",
+    "options": [
+      "Lukasz Dziedzic",
+      "Frederic Goudy",
+      "Lucas de Groot",
+      "Julieta Ulanovsky"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 241,
+    "category": "Typeface Designers",
+    "prompt": "Goudy Old Style is a typeface created by which designer?",
+    "options": [
+      "Hermann Zapf",
+      "Apple Type Team",
+      "Steve Matteson",
+      "Frederic Goudy"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 242,
+    "category": "Typeface Designers",
+    "prompt": "Which designer is credited with creating Goudy Old Style?",
+    "options": [
+      "Max Miedinger",
+      "Lukasz Dziedzic",
+      "Frederic Goudy",
+      "Steve Matteson"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 243,
+    "category": "Typeface History",
+    "prompt": "In what year was the typeface Goudy Old Style first released?",
+    "options": [
+      "1915",
+      "1976",
+      "2015",
+      "1957"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 244,
+    "category": "Typeface History",
+    "prompt": "Goudy Old Style was released in which year?",
+    "options": [
+      "2015",
+      "2007",
+      "2011",
+      "1915"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 245,
+    "category": "Typeface History",
+    "prompt": "Which year marks the debut of the typeface Goudy Old Style?",
+    "options": [
+      "2007",
+      "1970",
+      "1915",
+      "1982"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 246,
+    "category": "Type Foundries",
+    "prompt": "Which type foundry or company released the typeface Goudy Old Style?",
+    "options": [
+      "Deberny et Peignot",
+      "Monotype",
+      "American Type Founders",
+      "Microsoft"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 247,
+    "category": "Type Foundries",
+    "prompt": "Goudy Old Style was released by which foundry or company?",
+    "options": [
+      "Microsoft",
+      "Monotype",
+      "American Type Founders",
+      "Adobe"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 248,
+    "category": "Typeface Classification",
+    "prompt": "How is the typeface Goudy Old Style generally classified?",
+    "options": [
+      "serif",
+      "novelty/script",
+      "sans-serif",
+      "slab serif"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 249,
+    "category": "Typeface Classification",
+    "prompt": "Goudy Old Style belongs to which broad category of typeface?",
+    "options": [
+      "serif",
+      "novelty/script",
+      "slab serif",
+      "sans-serif"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 250,
+    "category": "Typeface Designers",
+    "prompt": "Who designed the typeface Segoe UI?",
+    "options": [
+      "Stanley Morison & Victor Lardent",
+      "Apple Type Team",
+      "Hermann Zapf",
+      "Steve Matteson"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 251,
+    "category": "Typeface Designers",
+    "prompt": "Segoe UI is a typeface created by which designer?",
+    "options": [
+      "Robert Slimbach & Carol Twombly",
+      "Paul Renner",
+      "Steve Matteson",
+      "Frederic Goudy"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 252,
+    "category": "Typeface Designers",
+    "prompt": "Which designer is credited with creating Segoe UI?",
+    "options": [
+      "Morris Fuller Benton",
+      "Eric Gill",
+      "Steve Matteson",
+      "Lucas de Groot"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 253,
+    "category": "Typeface History",
+    "prompt": "Which year marks the debut of the typeface Segoe UI?",
+    "options": [
+      "1958",
+      "1927",
+      "1970",
+      "2004"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 254,
+    "category": "Type Foundries",
+    "prompt": "Which type foundry or company released the typeface Segoe UI?",
+    "options": [
+      "Caslon Foundry",
+      "Microsoft",
+      "Google",
+      "Monotype/Microsoft"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 255,
+    "category": "Type Foundries",
+    "prompt": "Segoe UI was released by which foundry or company?",
+    "options": [
+      "Monotype/Microsoft",
+      "Monotype",
+      "Deberny et Peignot",
+      "American Type Founders"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 256,
+    "category": "Typeface Classification",
+    "prompt": "How is the typeface Segoe UI generally classified?",
+    "options": [
+      "slab serif",
+      "serif",
+      "novelty/script",
+      "sans-serif"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 257,
+    "category": "Typeface Classification",
+    "prompt": "Segoe UI belongs to which broad category of typeface?",
+    "options": [
+      "serif",
+      "sans-serif",
+      "novelty/script",
+      "slab serif"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 258,
+    "category": "Typeface Designers",
+    "prompt": "Who designed the typeface San Francisco?",
+    "options": [
+      "Apple Type Team",
+      "Stanley Morison & Victor Lardent",
+      "Carol Twombly",
+      "Paul Renner"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 259,
+    "category": "Typeface Designers",
+    "prompt": "San Francisco is a typeface created by which designer?",
+    "options": [
+      "Robert Slimbach & Carol Twombly",
+      "Apple Type Team",
+      "Vincent Connare",
+      "Matthew Carter"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 260,
+    "category": "Typeface Designers",
+    "prompt": "Which designer is credited with creating San Francisco?",
+    "options": [
+      "Lucas de Groot",
+      "Apple Type Team",
+      "Matthew Carter",
+      "Claude Garamond"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 261,
+    "category": "Typeface History",
+    "prompt": "In what year was the typeface San Francisco first released?",
+    "options": [
+      "1799",
+      "2015",
+      "1958",
+      "2004"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 262,
+    "category": "Typeface History",
+    "prompt": "San Francisco was released in which year?",
+    "options": [
+      "1530s",
+      "1989",
+      "1757",
+      "2015"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 263,
+    "category": "Typeface History",
+    "prompt": "Which year marks the debut of the typeface San Francisco?",
+    "options": [
+      "1989",
+      "2015",
+      "1722",
+      "1948"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 264,
+    "category": "Type Foundries",
+    "prompt": "San Francisco was released by which foundry or company?",
+    "options": [
+      "American Type Founders",
+      "Caslon Foundry",
+      "Adobe",
+      "Apple"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 265,
+    "category": "Typeface Classification",
+    "prompt": "How is the typeface San Francisco generally classified?",
+    "options": [
+      "slab serif",
+      "serif",
+      "novelty/script",
+      "sans-serif"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 266,
+    "category": "Typeface Classification",
+    "prompt": "San Francisco belongs to which broad category of typeface?",
+    "options": [
+      "sans-serif",
+      "serif",
+      "novelty/script",
+      "slab serif"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 267,
+    "category": "Typeface Designers",
+    "prompt": "Who designed the typeface Roboto?",
+    "options": [
+      "Christian Robertson",
+      "Stanley Morison & Victor Lardent",
+      "Matthew Carter",
+      "Paul Renner"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 268,
+    "category": "Typeface Designers",
+    "prompt": "Roboto is a typeface created by which designer?",
+    "options": [
+      "Christian Robertson",
+      "Robert Slimbach & Carol Twombly",
+      "Lukasz Dziedzic",
+      "William Caslon"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 269,
+    "category": "Typeface Designers",
+    "prompt": "Which designer is credited with creating Roboto?",
+    "options": [
+      "Claude Garamond",
+      "Christian Robertson",
+      "Morris Fuller Benton",
+      "Lucas de Groot"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 270,
+    "category": "Typeface History",
+    "prompt": "In what year was the typeface Roboto first released?",
+    "options": [
+      "1530s",
+      "2010",
+      "2011",
+      "1948"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 271,
+    "category": "Typeface History",
+    "prompt": "Roboto was released in which year?",
+    "options": [
+      "1799",
+      "1991",
+      "1722",
+      "2011"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 272,
+    "category": "Typeface History",
+    "prompt": "Which year marks the debut of the typeface Roboto?",
+    "options": [
+      "2004",
+      "1957",
+      "1992",
+      "2011"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 273,
+    "category": "Type Foundries",
+    "prompt": "Roboto was released by which foundry or company?",
+    "options": [
+      "American Type Founders",
+      "Google",
+      "Stempel",
+      "Monotype"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 274,
+    "category": "Typeface Classification",
+    "prompt": "How is the typeface Roboto generally classified?",
+    "options": [
+      "sans-serif",
+      "slab serif",
+      "novelty/script",
+      "serif"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 275,
+    "category": "Typeface Classification",
+    "prompt": "Roboto belongs to which broad category of typeface?",
+    "options": [
+      "sans-serif",
+      "novelty/script",
+      "slab serif",
+      "serif"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 276,
+    "category": "Typeface Designers",
+    "prompt": "Who designed the typeface Open Sans?",
+    "options": [
+      "Hermann Zapf",
+      "Lukasz Dziedzic",
+      "Jelle Bosma, Steve Matteson & Robin Nicholas",
+      "Steve Matteson"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 277,
+    "category": "Typeface Designers",
+    "prompt": "Open Sans is a typeface created by which designer?",
+    "options": [
+      "Steve Matteson",
+      "William Caslon",
+      "Monotype Design Studio",
+      "John Baskerville"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 278,
+    "category": "Typeface Designers",
+    "prompt": "Which designer is credited with creating Open Sans?",
+    "options": [
+      "Hermann Zapf",
+      "William Caslon",
+      "Steve Matteson",
+      "Matthew Carter"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 279,
+    "category": "Typeface History",
+    "prompt": "In what year was the typeface Open Sans first released?",
+    "options": [
+      "2011",
+      "1934",
+      "1970",
+      "1994"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 280,
+    "category": "Typeface History",
+    "prompt": "Open Sans was released in which year?",
+    "options": [
+      "1991",
+      "1957",
+      "2011",
+      "2015"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 281,
+    "category": "Typeface History",
+    "prompt": "Which year marks the debut of the typeface Open Sans?",
+    "options": [
+      "1757",
+      "1958",
+      "2010",
+      "2011"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 282,
+    "category": "Typeface Classification",
+    "prompt": "How is the typeface Open Sans generally classified?",
+    "options": [
+      "novelty/script",
+      "serif",
+      "sans-serif",
+      "slab serif"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 283,
+    "category": "Typeface Classification",
+    "prompt": "Open Sans belongs to which broad category of typeface?",
+    "options": [
+      "novelty/script",
+      "serif",
+      "sans-serif",
+      "slab serif"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 284,
+    "category": "Typeface Designers",
+    "prompt": "Who designed the typeface Lato?",
+    "options": [
+      "Paul Renner",
+      "William Caslon",
+      "Robin Nicholas & Patricia Saunders",
+      "Lukasz Dziedzic"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 285,
+    "category": "Typeface Designers",
+    "prompt": "Which designer is credited with creating Lato?",
+    "options": [
+      "Julieta Ulanovsky",
+      "Giambattista Bodoni",
+      "Robin Nicholas & Patricia Saunders",
+      "Lukasz Dziedzic"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 286,
+    "category": "Typeface History",
+    "prompt": "In what year was the typeface Lato first released?",
+    "options": [
+      "1927",
+      "2010",
+      "1934",
+      "1530s"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 287,
+    "category": "Typeface History",
+    "prompt": "Lato was released in which year?",
+    "options": [
+      "2004",
+      "2010",
+      "1934",
+      "1982"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 288,
+    "category": "Typeface History",
+    "prompt": "Which year marks the debut of the typeface Lato?",
+    "options": [
+      "1915",
+      "2011",
+      "2010",
+      "1958"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 289,
+    "category": "Typeface Classification",
+    "prompt": "How is the typeface Lato generally classified?",
+    "options": [
+      "novelty/script",
+      "sans-serif",
+      "slab serif",
+      "serif"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 290,
+    "category": "Typeface Classification",
+    "prompt": "Lato belongs to which broad category of typeface?",
+    "options": [
+      "novelty/script",
+      "slab serif",
+      "serif",
+      "sans-serif"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 291,
+    "category": "Typeface Designers",
+    "prompt": "Who designed the typeface Montserrat?",
+    "options": [
+      "Eric Gill",
+      "Adrian Frutiger",
+      "Julieta Ulanovsky",
+      "Robin Nicholas & Patricia Saunders"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 292,
+    "category": "Typeface Designers",
+    "prompt": "Montserrat is a typeface created by which designer?",
+    "options": [
+      "Julieta Ulanovsky",
+      "Morris Fuller Benton",
+      "Matthew Carter",
+      "Stanley Morison & Victor Lardent"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 293,
+    "category": "Typeface Designers",
+    "prompt": "Which designer is credited with creating Montserrat?",
+    "options": [
+      "Julieta Ulanovsky",
+      "Hermann Zapf",
+      "Matthew Carter",
+      "Lucas de Groot"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 294,
+    "category": "Typeface History",
+    "prompt": "In what year was the typeface Montserrat first released?",
+    "options": [
+      "2011",
+      "1757",
+      "1530s",
+      "1976"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 295,
+    "category": "Typeface History",
+    "prompt": "Montserrat was released in which year?",
+    "options": [
+      "1722",
+      "1957",
+      "2004",
+      "2011"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 296,
+    "category": "Typeface History",
+    "prompt": "Which year marks the debut of the typeface Montserrat?",
+    "options": [
+      "2011",
+      "1799",
+      "1994",
+      "2004"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 297,
+    "category": "Typeface Classification",
+    "prompt": "How is the typeface Montserrat generally classified?",
+    "options": [
+      "novelty/script",
+      "serif",
+      "slab serif",
+      "sans-serif"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 298,
+    "category": "Typeface Classification",
+    "prompt": "Montserrat belongs to which broad category of typeface?",
+    "options": [
+      "sans-serif",
+      "slab serif",
+      "serif",
+      "novelty/script"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 299,
+    "category": "Typeface Designers",
+    "prompt": "Who designed the typeface Calibri?",
+    "options": [
+      "Jelle Bosma, Steve Matteson & Robin Nicholas",
+      "Lucas de Groot",
+      "Hermann Zapf",
+      "Carol Twombly"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 300,
+    "category": "Typeface Designers",
+    "prompt": "Calibri is a typeface created by which designer?",
+    "options": [
+      "Robert Slimbach & Carol Twombly",
+      "Lukasz Dziedzic",
+      "Adrian Frutiger",
+      "Lucas de Groot"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 301,
+    "category": "Typeface Designers",
+    "prompt": "Which designer is credited with creating Calibri?",
+    "options": [
+      "Steve Matteson",
+      "Robert Slimbach & Carol Twombly",
+      "Lucas de Groot",
+      "Robin Nicholas & Patricia Saunders"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 302,
+    "category": "Typeface History",
+    "prompt": "In what year was the typeface Calibri first released?",
+    "options": [
+      "1976",
+      "2011",
+      "2007",
+      "1530s"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 303,
+    "category": "Typeface History",
+    "prompt": "Calibri was released in which year?",
+    "options": [
+      "2007",
+      "1757",
+      "1530s",
+      "1994"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 304,
+    "category": "Typeface History",
+    "prompt": "Which year marks the debut of the typeface Calibri?",
+    "options": [
+      "2004",
+      "2007",
+      "2011",
+      "1722"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 305,
+    "category": "Type Foundries",
+    "prompt": "Which type foundry or company released the typeface Calibri?",
+    "options": [
+      "Monotype",
+      "Caslon Foundry",
+      "Haas Type Foundry",
+      "Microsoft"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 306,
+    "category": "Typeface Classification",
+    "prompt": "How is the typeface Calibri generally classified?",
+    "options": [
+      "novelty/script",
+      "slab serif",
+      "sans-serif",
+      "serif"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 307,
+    "category": "Typeface Classification",
+    "prompt": "Calibri belongs to which broad category of typeface?",
+    "options": [
+      "sans-serif",
+      "slab serif",
+      "novelty/script",
+      "serif"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 308,
+    "category": "Typeface Designers",
+    "prompt": "Who designed the typeface Cambria?",
+    "options": [
+      "Adrian Frutiger",
+      "Lukasz Dziedzic",
+      "Jelle Bosma, Steve Matteson & Robin Nicholas",
+      "Paul Renner"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 309,
+    "category": "Typeface Designers",
+    "prompt": "Cambria is a typeface created by which designer?",
+    "options": [
+      "Robin Nicholas & Patricia Saunders",
+      "Christian Robertson",
+      "Jelle Bosma, Steve Matteson & Robin Nicholas",
+      "Adrian Frutiger"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 310,
+    "category": "Typeface Designers",
+    "prompt": "Which designer is credited with creating Cambria?",
+    "options": [
+      "Adrian Frutiger",
+      "Christian Robertson",
+      "Jelle Bosma, Steve Matteson & Robin Nicholas",
+      "Max Miedinger"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 311,
+    "category": "Typeface History",
+    "prompt": "In what year was the typeface Cambria first released?",
+    "options": [
+      "2004",
+      "1994",
+      "2015",
+      "2011"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 312,
+    "category": "Typeface History",
+    "prompt": "Cambria was released in which year?",
+    "options": [
+      "2010",
+      "2004",
+      "1976",
+      "1958"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 313,
+    "category": "Typeface History",
+    "prompt": "Which year marks the debut of the typeface Cambria?",
+    "options": [
+      "1927",
+      "1530s",
+      "1798",
+      "2004"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 314,
+    "category": "Type Foundries",
+    "prompt": "Which type foundry or company released the typeface Cambria?",
+    "options": [
+      "International Typeface Corporation",
+      "Apple",
+      "Microsoft",
+      "Google"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 315,
+    "category": "Type Foundries",
+    "prompt": "Cambria was released by which foundry or company?",
+    "options": [
+      "Monotype/Microsoft",
+      "Microsoft",
+      "Stempel",
+      "Bauer Type Foundry"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 316,
+    "category": "Typeface Classification",
+    "prompt": "How is the typeface Cambria generally classified?",
+    "options": [
+      "serif",
+      "novelty/script",
+      "slab serif",
+      "sans-serif"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 317,
+    "category": "Typeface Classification",
+    "prompt": "Cambria belongs to which broad category of typeface?",
+    "options": [
+      "sans-serif",
+      "serif",
+      "slab serif",
+      "novelty/script"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 318,
+    "category": "Typeface Designers",
+    "prompt": "Which of these typefaces was designed by Stanley Morison & Victor Lardent?",
+    "options": [
+      "Times New Roman",
+      "Avant Garde",
+      "Verdana",
+      "Garamond"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 319,
+    "category": "Typeface Designers",
+    "prompt": "Which of these typefaces was designed by Max Miedinger?",
+    "options": [
+      "Century Gothic",
+      "Verdana",
+      "Helvetica",
+      "Caslon"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 320,
+    "category": "Typeface Designers",
+    "prompt": "Which of these typefaces was designed by Claude Garamond?",
+    "options": [
+      "Segoe UI",
+      "Garamond",
+      "Comic Sans",
+      "Futura"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 321,
+    "category": "Typeface Designers",
+    "prompt": "Which of these typefaces was designed by Paul Renner?",
+    "options": [
+      "San Francisco",
+      "Frutiger",
+      "Futura",
+      "Comic Sans"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 322,
+    "category": "Typeface Designers",
+    "prompt": "Which of these typefaces was designed by Eric Gill?",
+    "options": [
+      "Century Gothic",
+      "Caslon",
+      "Arial",
+      "Gill Sans"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 323,
+    "category": "Typeface Designers",
+    "prompt": "Which of these typefaces was designed by John Baskerville?",
+    "options": [
+      "Gill Sans",
+      "Baskerville",
+      "Comic Sans",
+      "Verdana"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 324,
+    "category": "Typeface Designers",
+    "prompt": "Which of these typefaces was designed by Giambattista Bodoni?",
+    "options": [
+      "Bodoni",
+      "Myriad",
+      "Gill Sans",
+      "Frutiger"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 325,
+    "category": "Typeface Designers",
+    "prompt": "Which of these typefaces was designed by William Caslon?",
+    "options": [
+      "Caslon",
+      "Optima",
+      "Times New Roman",
+      "Baskerville"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 326,
+    "category": "Typeface Designers",
+    "prompt": "Which of these typefaces was designed by Vincent Connare?",
+    "options": [
+      "Caslon",
+      "Georgia",
+      "Frutiger",
+      "Comic Sans"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 327,
+    "category": "Typeface Designers",
+    "prompt": "Which of these typefaces was designed by Robin Nicholas & Patricia Saunders?",
+    "options": [
+      "Arial",
+      "Georgia",
+      "Cambria",
+      "Verdana"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 328,
+    "category": "Typeface Designers",
+    "prompt": "Which of these typefaces was designed by Matthew Carter?",
+    "options": [
+      "Futura",
+      "Gill Sans",
+      "Myriad",
+      "Georgia"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 329,
+    "category": "Typeface Designers",
+    "prompt": "Which of these typefaces was designed by Hermann Zapf?",
+    "options": [
+      "Palatino",
+      "Baskerville",
+      "Rockwell",
+      "Montserrat"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 330,
+    "category": "Typeface Designers",
+    "prompt": "Which of these typefaces was designed by Adrian Frutiger?",
+    "options": [
+      "Avant Garde",
+      "Georgia",
+      "Cambria",
+      "Frutiger"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 331,
+    "category": "Typeface Designers",
+    "prompt": "Which of these typefaces was designed by Morris Fuller Benton?",
+    "options": [
+      "Georgia",
+      "Franklin Gothic",
+      "Frutiger",
+      "Goudy Old Style"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 332,
+    "category": "Typeface Designers",
+    "prompt": "Which of these typefaces was designed by Firmin Didot?",
+    "options": [
+      "Verdana",
+      "Montserrat",
+      "Caslon",
+      "Didot"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 333,
+    "category": "Typeface Designers",
+    "prompt": "Which of these typefaces was designed by Herb Lubalin & Tom Carnase?",
+    "options": [
+      "Avant Garde",
+      "Goudy Old Style",
+      "Verdana",
+      "Helvetica"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 334,
+    "category": "Typeface Designers",
+    "prompt": "Which of these typefaces was designed by Robert Slimbach & Carol Twombly?",
+    "options": [
+      "Optima",
+      "Gill Sans",
+      "Myriad",
+      "Rockwell"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 335,
+    "category": "Typeface Designers",
+    "prompt": "Which of these typefaces was designed by Carol Twombly?",
+    "options": [
+      "Times New Roman",
+      "Trajan",
+      "Arial",
+      "Rockwell"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 336,
+    "category": "Typeface Designers",
+    "prompt": "Which of these typefaces was designed by Frederic Goudy?",
+    "options": [
+      "Open Sans",
+      "Goudy Old Style",
+      "Univers",
+      "Montserrat"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 337,
+    "category": "Typeface Designers",
+    "prompt": "Which of these typefaces was designed by Steve Matteson?",
+    "options": [
+      "Segoe UI",
+      "Montserrat",
+      "Roboto",
+      "Futura"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 338,
+    "category": "Typeface Designers",
+    "prompt": "Which of these typefaces was designed by Christian Robertson?",
+    "options": [
+      "Roboto",
+      "Rockwell",
+      "Cambria",
+      "Baskerville"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 339,
+    "category": "Typeface Designers",
+    "prompt": "Which of these typefaces was designed by Lukasz Dziedzic?",
+    "options": [
+      "Optima",
+      "Calibri",
+      "San Francisco",
+      "Lato"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 340,
+    "category": "Typeface Designers",
+    "prompt": "Which of these typefaces was designed by Julieta Ulanovsky?",
+    "options": [
+      "Arial",
+      "Cambria",
+      "Open Sans",
+      "Montserrat"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 341,
+    "category": "Typeface Designers",
+    "prompt": "Which of these typefaces was designed by Lucas de Groot?",
+    "options": [
+      "Optima",
+      "Roboto",
+      "Frutiger",
+      "Calibri"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 342,
+    "category": "Typeface Designers",
+    "prompt": "Which of these typefaces was designed by Jelle Bosma, Steve Matteson & Robin Nicholas?",
+    "options": [
+      "Rockwell",
+      "Cambria",
+      "Bodoni",
+      "Caslon"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 343,
+    "category": "Typography Terms",
+    "prompt": "In typography, what does the term 'Serif' refer to?",
+    "options": [
+      "a specific visual shape used to represent a character or part of one",
+      "a font format jointly developed by Microsoft and Adobe",
+      "a small line or stroke attached to the end of a larger stroke in a letter",
+      "numerals that are all a uniform height, aligned with capital letters"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 344,
+    "category": "Typography Terms",
+    "prompt": "Which of these best defines the typographic term 'Serif'?",
+    "options": [
+      "a font format originally developed by Apple in the late 1980s",
+      "capital letterforms drawn at roughly the height of lowercase letters",
+      "a single font file that can render a continuous range of weights, widths, or styles",
+      "a small line or stroke attached to the end of a larger stroke in a letter"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 345,
+    "category": "Typography Terms",
+    "prompt": "Which typographic term describes a small line or stroke attached to the end of a larger stroke in a letter?",
+    "options": [
+      "Serif",
+      "Orphan",
+      "Drop cap",
+      "Typeface"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 346,
+    "category": "Typography Terms",
+    "prompt": "In typography, what does the term 'Sans-serif' refer to?",
+    "options": [
+      "a typeface whose letters have no small projecting strokes at their ends",
+      "a short first line of a paragraph left stranded at the bottom of a page or column",
+      "a uniform adjustment of spacing applied across a range of characters",
+      "the curved stroke that encloses a counter, as in the letters 'b' or 'p'"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 347,
+    "category": "Typography Terms",
+    "prompt": "Which of these best defines the typographic term 'Sans-serif'?",
+    "options": [
+      "a typeface whose letters have no small projecting strokes at their ends",
+      "numerals that are all a uniform height, aligned with capital letters",
+      "the relative thickness of the strokes making up a typeface, such as light or bold",
+      "a small line or stroke attached to the end of a larger stroke in a letter"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 348,
+    "category": "Typography Terms",
+    "prompt": "Which typographic term describes a typeface whose letters have no small projecting strokes at their ends?",
+    "options": [
+      "Ascender",
+      "Sans-serif",
+      "Monospace",
+      "Ear"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 349,
+    "category": "Typography Terms",
+    "prompt": "In typography, what does the term 'Kerning' refer to?",
+    "options": [
+      "a company or individual that designs, produces, or distributes typefaces",
+      "instructions embedded in a digital font to improve how it renders at small sizes",
+      "a short first line of a paragraph left stranded at the bottom of a page or column",
+      "the adjustment of space between two specific letters to improve visual spacing"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 350,
+    "category": "Typography Terms",
+    "prompt": "Which of these best defines the typographic term 'Kerning'?",
+    "options": [
+      "the main curving stroke that forms the body of the letter 'S'",
+      "the curved stroke that encloses a counter, as in the letters 'b' or 'p'",
+      "the horizontal stroke connecting two strokes, as in 'A' or 'H'",
+      "the adjustment of space between two specific letters to improve visual spacing"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 351,
+    "category": "Typography Terms",
+    "prompt": "Which typographic term describes the adjustment of space between two specific letters to improve visual spacing?",
+    "options": [
+      "Descender",
+      "Stem",
+      "Kerning",
+      "Spine"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 352,
+    "category": "Typography Terms",
+    "prompt": "In typography, what does the term 'Tracking' refer to?",
+    "options": [
+      "instructions embedded in a digital font to improve how it renders at small sizes",
+      "a small line or stroke attached to the end of a larger stroke in a letter",
+      "a uniform adjustment of spacing applied across a range of characters",
+      "the horizontal stroke connecting two strokes, as in 'A' or 'H'"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 353,
+    "category": "Typography Terms",
+    "prompt": "Which of these best defines the typographic term 'Tracking'?",
+    "options": [
+      "a style of type with letterforms redrawn at a slant, distinct from simple slanting",
+      "a decorative flourish that extends or replaces a normal terminal or serif",
+      "a uniform adjustment of spacing applied across a range of characters",
+      "a small stroke projecting from the top of letters like lowercase 'g' or 'r'"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 354,
+    "category": "Typography Terms",
+    "prompt": "Which typographic term describes a uniform adjustment of spacing applied across a range of characters?",
+    "options": [
+      "Bracket",
+      "Leading",
+      "Tracking",
+      "Descender"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 355,
+    "category": "Typography Terms",
+    "prompt": "In typography, what does the term 'Leading' refer to?",
+    "options": [
+      "the vertical space between the baselines of consecutive lines of type",
+      "the thinnest stroke weight found within a typeface",
+      "numerals of varying heights, some with ascenders or descenders, that blend into text",
+      "a style of type with letterforms redrawn at a slant, distinct from simple slanting"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 356,
+    "category": "Typography Terms",
+    "prompt": "Which of these best defines the typographic term 'Leading'?",
+    "options": [
+      "the thinnest stroke weight found within a typeface",
+      "the vertical space between the baselines of consecutive lines of type",
+      "the curved stroke that encloses a counter, as in the letters 'b' or 'p'",
+      "the relative thickness of the strokes making up a typeface, such as light or bold"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 357,
+    "category": "Typography Terms",
+    "prompt": "Which typographic term describes the vertical space between the baselines of consecutive lines of type?",
+    "options": [
+      "Leading",
+      "Letterpress",
+      "Foundry",
+      "Lining figures"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 358,
+    "category": "Typography Terms",
+    "prompt": "In typography, what does the term 'X-height' refer to?",
+    "options": [
+      "a font format originally developed by Apple in the late 1980s",
+      "the vertical space between the baselines of consecutive lines of type",
+      "the height of a typeface's lowercase letters, excluding ascenders and descenders",
+      "a short final line of a paragraph left stranded at the top of the next page or column"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 359,
+    "category": "Typography Terms",
+    "prompt": "Which of these best defines the typographic term 'X-height'?",
+    "options": [
+      "the enclosed or partially enclosed space within a letter such as 'o' or 'e'",
+      "the height of a typeface's lowercase letters, excluding ascenders and descenders",
+      "a single font file that can render a continuous range of weights, widths, or styles",
+      "the invisible line on which most letters visually rest"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 360,
+    "category": "Typography Terms",
+    "prompt": "Which typographic term describes the height of a typeface's lowercase letters, excluding ascenders and descenders?",
+    "options": [
+      "Ligature",
+      "X-height",
+      "Oblique",
+      "Foundry"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 361,
+    "category": "Typography Terms",
+    "prompt": "In typography, what does the term 'Ascender' refer to?",
+    "options": [
+      "a decorative flourish that extends or replaces a normal terminal or serif",
+      "a narrower variant of a typeface, with letters set closer together",
+      "the horizontal stroke connecting two strokes, as in 'A' or 'H'",
+      "the part of a lowercase letter, like 'b' or 'd', that extends above the x-height"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 362,
+    "category": "Typography Terms",
+    "prompt": "Which of these best defines the typographic term 'Ascender'?",
+    "options": [
+      "a unit of typographic measurement equal to half an em",
+      "the part of a lowercase letter, like 'b' or 'd', that extends above the x-height",
+      "a unit of typographic measurement equal to the point size of the type",
+      "a narrower variant of a typeface, with letters set closer together"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 363,
+    "category": "Typography Terms",
+    "prompt": "Which typographic term describes the part of a lowercase letter, like 'b' or 'd', that extends above the x-height?",
+    "options": [
+      "Descender",
+      "Kerning",
+      "Swash",
+      "Ascender"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 364,
+    "category": "Typography Terms",
+    "prompt": "In typography, what does the term 'Descender' refer to?",
+    "options": [
+      "the main curving stroke that forms the body of the letter 'S'",
+      "a small stroke projecting from the top of letters like lowercase 'g' or 'r'",
+      "the part of a lowercase letter, like 'g' or 'p', that extends below the baseline",
+      "a style of type with letterforms redrawn at a slant, distinct from simple slanting"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 365,
+    "category": "Typography Terms",
+    "prompt": "Which of these best defines the typographic term 'Descender'?",
+    "options": [
+      "a small line or stroke attached to the end of a larger stroke in a letter",
+      "a style of type with letterforms redrawn at a slant, distinct from simple slanting",
+      "the part of a lowercase letter, like 'g' or 'p', that extends below the baseline",
+      "the height of a typeface's lowercase letters, excluding ascenders and descenders"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 366,
+    "category": "Typography Terms",
+    "prompt": "Which typographic term describes the part of a lowercase letter, like 'g' or 'p', that extends below the baseline?",
+    "options": [
+      "Em",
+      "Descender",
+      "Movable type",
+      "Sans-serif"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 367,
+    "category": "Typography Terms",
+    "prompt": "In typography, what does the term 'Baseline' refer to?",
+    "options": [
+      "a decorative flourish that extends or replaces a normal terminal or serif",
+      "a unit of typographic measurement equal to the point size of the type",
+      "a typeface in which every character occupies exactly the same horizontal width",
+      "the invisible line on which most letters visually rest"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 368,
+    "category": "Typography Terms",
+    "prompt": "Which of these best defines the typographic term 'Baseline'?",
+    "options": [
+      "the main curving stroke that forms the body of the letter 'S'",
+      "a typeface whose letters have no small projecting strokes at their ends",
+      "the invisible line on which most letters visually rest",
+      "a unit of typographic measurement equal to the point size of the type"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 369,
+    "category": "Typography Terms",
+    "prompt": "Which typographic term describes the invisible line on which most letters visually rest?",
+    "options": [
+      "Pica",
+      "Cap height",
+      "Descender",
+      "Baseline"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 370,
+    "category": "Typography Terms",
+    "prompt": "In typography, what does the term 'Cap height' refer to?",
+    "options": [
+      "a decorative flourish that extends or replaces a normal terminal or serif",
+      "the relative thickness of the strokes making up a typeface, such as light or bold",
+      "the height of a capital letter measured from the baseline",
+      "a typeface whose letters have no small projecting strokes at their ends"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 371,
+    "category": "Typography Terms",
+    "prompt": "Which of these best defines the typographic term 'Cap height'?",
+    "options": [
+      "the enclosed or partially enclosed space within a letter such as 'o' or 'e'",
+      "the point at the top of a letter where two diagonal strokes meet, as in 'A'",
+      "a small stroke projecting from the top of letters like lowercase 'g' or 'r'",
+      "the height of a capital letter measured from the baseline"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 372,
+    "category": "Typography Terms",
+    "prompt": "Which typographic term describes the height of a capital letter measured from the baseline?",
+    "options": [
+      "Glyph",
+      "Point size",
+      "Cap height",
+      "OpenType"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 373,
+    "category": "Typography Terms",
+    "prompt": "In typography, what does the term 'Ligature' refer to?",
+    "options": [
+      "a single glyph formed by combining two or more letters, such as 'fi'",
+      "a small stroke projecting from the top of letters like lowercase 'g' or 'r'",
+      "a decorative flourish that extends or replaces a normal terminal or serif",
+      "the unit, based on points, used to measure the size of type"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 374,
+    "category": "Typography Terms",
+    "prompt": "Which of these best defines the typographic term 'Ligature'?",
+    "options": [
+      "a narrower variant of a typeface, with letters set closer together",
+      "a typeface whose letters have no small projecting strokes at their ends",
+      "a single glyph formed by combining two or more letters, such as 'fi'",
+      "a font format originally developed by Apple in the late 1980s"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 375,
+    "category": "Typography Terms",
+    "prompt": "Which typographic term describes a single glyph formed by combining two or more letters, such as 'fi'?",
+    "options": [
+      "Ligature",
+      "Em",
+      "Italic",
+      "Kerning"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 376,
+    "category": "Typography Terms",
+    "prompt": "In typography, what does the term 'Counter' refer to?",
+    "options": [
+      "a short first line of a paragraph left stranded at the bottom of a page or column",
+      "the unit, based on points, used to measure the size of type",
+      "the enclosed or partially enclosed space within a letter such as 'o' or 'e'",
+      "a typeface in which every character occupies exactly the same horizontal width"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 377,
+    "category": "Typography Terms",
+    "prompt": "Which of these best defines the typographic term 'Counter'?",
+    "options": [
+      "the relative thickness of the strokes making up a typeface, such as light or bold",
+      "a typeface whose letters have no small projecting strokes at their ends",
+      "a specific visual shape used to represent a character or part of one",
+      "the enclosed or partially enclosed space within a letter such as 'o' or 'e'"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 378,
+    "category": "Typography Terms",
+    "prompt": "Which typographic term describes the enclosed or partially enclosed space within a letter such as 'o' or 'e'?",
+    "options": [
+      "Widow",
+      "Monospace",
+      "Typeface",
+      "Counter"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 379,
+    "category": "Typography Terms",
+    "prompt": "In typography, what does the term 'Bowl' refer to?",
+    "options": [
+      "the invisible line on which most letters visually rest",
+      "the curved stroke that encloses a counter, as in the letters 'b' or 'p'",
+      "a short final line of a paragraph left stranded at the top of the next page or column",
+      "instructions embedded in a digital font to improve how it renders at small sizes"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 380,
+    "category": "Typography Terms",
+    "prompt": "Which of these best defines the typographic term 'Bowl'?",
+    "options": [
+      "the curved stroke that encloses a counter, as in the letters 'b' or 'p'",
+      "the end of a stroke that does not carry a serif",
+      "a narrower variant of a typeface, with letters set closer together",
+      "an enlarged capital letter at the start of a paragraph that spans several lines of text"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 381,
+    "category": "Typography Terms",
+    "prompt": "Which typographic term describes the curved stroke that encloses a counter, as in the letters 'b' or 'p'?",
+    "options": [
+      "Kerning",
+      "Bowl",
+      "Em",
+      "Leading"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 382,
+    "category": "Typography Terms",
+    "prompt": "In typography, what does the term 'Stem' refer to?",
+    "options": [
+      "a relief printing technique that applies ink using raised, inked surfaces",
+      "the main, usually vertical, stroke of a letterform",
+      "a single font file that can render a continuous range of weights, widths, or styles",
+      "a font format jointly developed by Microsoft and Adobe"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 383,
+    "category": "Typography Terms",
+    "prompt": "Which of these best defines the typographic term 'Stem'?",
+    "options": [
+      "the main, usually vertical, stroke of a letterform",
+      "the horizontal stroke connecting two strokes, as in 'A' or 'H'",
+      "the end of a stroke that does not carry a serif",
+      "the part of a lowercase letter, like 'g' or 'p', that extends below the baseline"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 384,
+    "category": "Typography Terms",
+    "prompt": "Which typographic term describes the main, usually vertical, stroke of a letterform?",
+    "options": [
+      "Widow",
+      "Stem",
+      "X-height",
+      "Lining figures"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 385,
+    "category": "Typography Terms",
+    "prompt": "In typography, what does the term 'Terminal' refer to?",
+    "options": [
+      "individual, reusable pieces of type that can be arranged to form text for printing",
+      "the end of a stroke that does not carry a serif",
+      "the horizontal stroke connecting two strokes, as in 'A' or 'H'",
+      "the main, usually vertical, stroke of a letterform"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 386,
+    "category": "Typography Terms",
+    "prompt": "Which of these best defines the typographic term 'Terminal'?",
+    "options": [
+      "instructions embedded in a digital font to improve how it renders at small sizes",
+      "numerals of varying heights, some with ascenders or descenders, that blend into text",
+      "a traditional unit of typographic measurement equal to 12 points",
+      "the end of a stroke that does not carry a serif"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 387,
+    "category": "Typography Terms",
+    "prompt": "Which typographic term describes the end of a stroke that does not carry a serif?",
+    "options": [
+      "Terminal",
+      "Ear",
+      "Hairline",
+      "Variable font"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 388,
+    "category": "Typography Terms",
+    "prompt": "In typography, what does the term 'Ear' refer to?",
+    "options": [
+      "a short first line of a paragraph left stranded at the bottom of a page or column",
+      "a small stroke projecting from the top of letters like lowercase 'g' or 'r'",
+      "the enclosed or partially enclosed space within a letter such as 'o' or 'e'",
+      "a small line or stroke attached to the end of a larger stroke in a letter"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 389,
+    "category": "Typography Terms",
+    "prompt": "Which of these best defines the typographic term 'Ear'?",
+    "options": [
+      "a single glyph formed by combining two or more letters, such as 'fi'",
+      "a small stroke projecting from the top of letters like lowercase 'g' or 'r'",
+      "a traditional unit of typographic measurement equal to 12 points",
+      "a unit of typographic measurement equal to half an em"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 390,
+    "category": "Typography Terms",
+    "prompt": "Which typographic term describes a small stroke projecting from the top of letters like lowercase 'g' or 'r'?",
+    "options": [
+      "Leading",
+      "Ascender",
+      "Ear",
+      "Bracket"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 391,
+    "category": "Typography Terms",
+    "prompt": "In typography, what does the term 'Spine' refer to?",
+    "options": [
+      "the main curving stroke that forms the body of the letter 'S'",
+      "a relief printing technique that applies ink using raised, inked surfaces",
+      "a font format originally developed by Apple in the late 1980s",
+      "an enlarged capital letter at the start of a paragraph that spans several lines of text"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 392,
+    "category": "Typography Terms",
+    "prompt": "Which of these best defines the typographic term 'Spine'?",
+    "options": [
+      "the main curving stroke that forms the body of the letter 'S'",
+      "a slanted version of an upright typeface created by skewing the original letterforms",
+      "the end of a stroke that does not carry a serif",
+      "a typeface in which every character occupies exactly the same horizontal width"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 393,
+    "category": "Typography Terms",
+    "prompt": "Which typographic term describes the main curving stroke that forms the body of the letter 'S'?",
+    "options": [
+      "Hairline",
+      "Spine",
+      "OpenType",
+      "Terminal"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 394,
+    "category": "Typography Terms",
+    "prompt": "In typography, what does the term 'Apex' refer to?",
+    "options": [
+      "a relief printing technique that applies ink using raised, inked surfaces",
+      "the horizontal stroke connecting two strokes, as in 'A' or 'H'",
+      "a short final line of a paragraph left stranded at the top of the next page or column",
+      "the point at the top of a letter where two diagonal strokes meet, as in 'A'"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 395,
+    "category": "Typography Terms",
+    "prompt": "Which of these best defines the typographic term 'Apex'?",
+    "options": [
+      "the curved stroke that encloses a counter, as in the letters 'b' or 'p'",
+      "a short first line of a paragraph left stranded at the bottom of a page or column",
+      "the point at the top of a letter where two diagonal strokes meet, as in 'A'",
+      "a narrower variant of a typeface, with letters set closer together"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 396,
+    "category": "Typography Terms",
+    "prompt": "Which typographic term describes the point at the top of a letter where two diagonal strokes meet, as in 'A'?",
+    "options": [
+      "Sans-serif",
+      "Point size",
+      "Hairline",
+      "Apex"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 397,
+    "category": "Typography Terms",
+    "prompt": "In typography, what does the term 'Crossbar' refer to?",
+    "options": [
+      "the horizontal stroke connecting two strokes, as in 'A' or 'H'",
+      "the thinnest stroke weight found within a typeface",
+      "numerals that are all a uniform height, aligned with capital letters",
+      "a font format originally developed by Apple in the late 1980s"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 398,
+    "category": "Typography Terms",
+    "prompt": "Which of these best defines the typographic term 'Crossbar'?",
+    "options": [
+      "the main curving stroke that forms the body of the letter 'S'",
+      "the curved stroke that encloses a counter, as in the letters 'b' or 'p'",
+      "the horizontal stroke connecting two strokes, as in 'A' or 'H'",
+      "the overall design of a set of letterforms, as distinct from a specific file or size of it"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 399,
+    "category": "Typography Terms",
+    "prompt": "Which typographic term describes the horizontal stroke connecting two strokes, as in 'A' or 'H'?",
+    "options": [
+      "Baseline",
+      "Crossbar",
+      "Monospace",
+      "Old-style figures"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 400,
+    "category": "Typography Terms",
+    "prompt": "In typography, what does the term 'Bracket' refer to?",
+    "options": [
+      "the curved part that connects a serif to the main stroke of a letter",
+      "a specific visual shape used to represent a character or part of one",
+      "a decorative flourish that extends or replaces a normal terminal or serif",
+      "capital letterforms drawn at roughly the height of lowercase letters"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 401,
+    "category": "Typography Terms",
+    "prompt": "Which of these best defines the typographic term 'Bracket'?",
+    "options": [
+      "numerals that are all a uniform height, aligned with capital letters",
+      "capital letterforms drawn at roughly the height of lowercase letters",
+      "the curved part that connects a serif to the main stroke of a letter",
+      "the invisible line on which most letters visually rest"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 402,
+    "category": "Typography Terms",
+    "prompt": "Which typographic term describes the curved part that connects a serif to the main stroke of a letter?",
+    "options": [
+      "Kerning",
+      "TrueType",
+      "Bracket",
+      "Sans-serif"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 403,
+    "category": "Typography Terms",
+    "prompt": "In typography, what does the term 'Hairline' refer to?",
+    "options": [
+      "a slanted version of an upright typeface created by skewing the original letterforms",
+      "the curved part that connects a serif to the main stroke of a letter",
+      "the thinnest stroke weight found within a typeface",
+      "a decorative flourish that extends or replaces a normal terminal or serif"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 404,
+    "category": "Typography Terms",
+    "prompt": "Which of these best defines the typographic term 'Hairline'?",
+    "options": [
+      "a font format originally developed by Apple in the late 1980s",
+      "a single glyph formed by combining two or more letters, such as 'fi'",
+      "the thinnest stroke weight found within a typeface",
+      "a company or individual that designs, produces, or distributes typefaces"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 405,
+    "category": "Typography Terms",
+    "prompt": "Which typographic term describes the thinnest stroke weight found within a typeface?",
+    "options": [
+      "Em",
+      "Sans-serif",
+      "Hairline",
+      "Monospace"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 406,
+    "category": "Typography Terms",
+    "prompt": "In typography, what does the term 'Swash' refer to?",
+    "options": [
+      "the end of a stroke that does not carry a serif",
+      "a company or individual that designs, produces, or distributes typefaces",
+      "a narrower variant of a typeface, with letters set closer together",
+      "a decorative flourish that extends or replaces a normal terminal or serif"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 407,
+    "category": "Typography Terms",
+    "prompt": "Which of these best defines the typographic term 'Swash'?",
+    "options": [
+      "a decorative flourish that extends or replaces a normal terminal or serif",
+      "a traditional unit of typographic measurement equal to 12 points",
+      "the unit, based on points, used to measure the size of type",
+      "the curved stroke that encloses a counter, as in the letters 'b' or 'p'"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 408,
+    "category": "Typography Terms",
+    "prompt": "Which typographic term describes a decorative flourish that extends or replaces a normal terminal or serif?",
+    "options": [
+      "Swash",
+      "Variable font",
+      "Italic",
+      "Kerning"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 409,
+    "category": "Typography Terms",
+    "prompt": "In typography, what does the term 'Small caps' refer to?",
+    "options": [
+      "a typeface in which every character occupies exactly the same horizontal width",
+      "a single font file that can render a continuous range of weights, widths, or styles",
+      "the adjustment of space between two specific letters to improve visual spacing",
+      "capital letterforms drawn at roughly the height of lowercase letters"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 410,
+    "category": "Typography Terms",
+    "prompt": "Which of these best defines the typographic term 'Small caps'?",
+    "options": [
+      "the vertical space between the baselines of consecutive lines of type",
+      "numerals that are all a uniform height, aligned with capital letters",
+      "the part of a lowercase letter, like 'g' or 'p', that extends below the baseline",
+      "capital letterforms drawn at roughly the height of lowercase letters"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 411,
+    "category": "Typography Terms",
+    "prompt": "Which typographic term describes capital letterforms drawn at roughly the height of lowercase letters?",
+    "options": [
+      "Monospace",
+      "Old-style figures",
+      "Leading",
+      "Small caps"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 412,
+    "category": "Typography Terms",
+    "prompt": "In typography, what does the term 'Old-style figures' refer to?",
+    "options": [
+      "numerals of varying heights, some with ascenders or descenders, that blend into text",
+      "the relative thickness of the strokes making up a typeface, such as light or bold",
+      "a short final line of a paragraph left stranded at the top of the next page or column",
+      "the vertical space between the baselines of consecutive lines of type"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 413,
+    "category": "Typography Terms",
+    "prompt": "Which of these best defines the typographic term 'Old-style figures'?",
+    "options": [
+      "a single font file that can render a continuous range of weights, widths, or styles",
+      "individual, reusable pieces of type that can be arranged to form text for printing",
+      "numerals of varying heights, some with ascenders or descenders, that blend into text",
+      "capital letterforms drawn at roughly the height of lowercase letters"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 414,
+    "category": "Typography Terms",
+    "prompt": "Which typographic term describes numerals of varying heights, some with ascenders or descenders, that blend into text?",
+    "options": [
+      "Weight",
+      "Stem",
+      "Drop cap",
+      "Old-style figures"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 415,
+    "category": "Typography Terms",
+    "prompt": "In typography, what does the term 'Lining figures' refer to?",
+    "options": [
+      "numerals that are all a uniform height, aligned with capital letters",
+      "a font format jointly developed by Microsoft and Adobe",
+      "the main curving stroke that forms the body of the letter 'S'",
+      "the curved stroke that encloses a counter, as in the letters 'b' or 'p'"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 416,
+    "category": "Typography Terms",
+    "prompt": "Which of these best defines the typographic term 'Lining figures'?",
+    "options": [
+      "a small line or stroke attached to the end of a larger stroke in a letter",
+      "the enclosed or partially enclosed space within a letter such as 'o' or 'e'",
+      "the main, usually vertical, stroke of a letterform",
+      "numerals that are all a uniform height, aligned with capital letters"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 417,
+    "category": "Typography Terms",
+    "prompt": "Which typographic term describes numerals that are all a uniform height, aligned with capital letters?",
+    "options": [
+      "Lining figures",
+      "Ear",
+      "Point size",
+      "Stem"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 418,
+    "category": "Typography Terms",
+    "prompt": "In typography, what does the term 'Oblique' refer to?",
+    "options": [
+      "a small stroke projecting from the top of letters like lowercase 'g' or 'r'",
+      "a slanted version of an upright typeface created by skewing the original letterforms",
+      "a typeface whose letters have no small projecting strokes at their ends",
+      "instructions embedded in a digital font to improve how it renders at small sizes"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 419,
+    "category": "Typography Terms",
+    "prompt": "Which of these best defines the typographic term 'Oblique'?",
+    "options": [
+      "a single font file that can render a continuous range of weights, widths, or styles",
+      "a slanted version of an upright typeface created by skewing the original letterforms",
+      "the height of a capital letter measured from the baseline",
+      "the point at the top of a letter where two diagonal strokes meet, as in 'A'"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 420,
+    "category": "Typography Terms",
+    "prompt": "Which typographic term describes a slanted version of an upright typeface created by skewing the original letterforms?",
+    "options": [
+      "X-height",
+      "Orphan",
+      "Oblique",
+      "Leading"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 421,
+    "category": "Typography Terms",
+    "prompt": "In typography, what does the term 'Weight' refer to?",
+    "options": [
+      "the curved part that connects a serif to the main stroke of a letter",
+      "a typeface whose letters have no small projecting strokes at their ends",
+      "the relative thickness of the strokes making up a typeface, such as light or bold",
+      "the enclosed or partially enclosed space within a letter such as 'o' or 'e'"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 422,
+    "category": "Typography Terms",
+    "prompt": "Which of these best defines the typographic term 'Weight'?",
+    "options": [
+      "a specific visual shape used to represent a character or part of one",
+      "individual, reusable pieces of type that can be arranged to form text for printing",
+      "the relative thickness of the strokes making up a typeface, such as light or bold",
+      "a font format jointly developed by Microsoft and Adobe"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 423,
+    "category": "Typography Terms",
+    "prompt": "Which typographic term describes the relative thickness of the strokes making up a typeface, such as light or bold?",
+    "options": [
+      "Hairline",
+      "Monospace",
+      "Weight",
+      "Cap height"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 424,
+    "category": "Typography Terms",
+    "prompt": "In typography, what does the term 'Em' refer to?",
+    "options": [
+      "a font format jointly developed by Microsoft and Adobe",
+      "a unit of typographic measurement equal to the point size of the type",
+      "capital letterforms drawn at roughly the height of lowercase letters",
+      "a narrower variant of a typeface, with letters set closer together"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 425,
+    "category": "Typography Terms",
+    "prompt": "Which of these best defines the typographic term 'Em'?",
+    "options": [
+      "the overall design of a set of letterforms, as distinct from a specific file or size of it",
+      "a unit of typographic measurement equal to the point size of the type",
+      "the thinnest stroke weight found within a typeface",
+      "a style of type with letterforms redrawn at a slant, distinct from simple slanting"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 426,
+    "category": "Typography Terms",
+    "prompt": "Which typographic term describes a unit of typographic measurement equal to the point size of the type?",
+    "options": [
+      "Sans-serif",
+      "Ligature",
+      "Em",
+      "Bowl"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 427,
+    "category": "Typography Terms",
+    "prompt": "In typography, what does the term 'En' refer to?",
+    "options": [
+      "a typeface in which every character occupies exactly the same horizontal width",
+      "a unit of typographic measurement equal to half an em",
+      "the height of a capital letter measured from the baseline",
+      "a font format jointly developed by Microsoft and Adobe"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 428,
+    "category": "Typography Terms",
+    "prompt": "Which of these best defines the typographic term 'En'?",
+    "options": [
+      "a unit of typographic measurement equal to the point size of the type",
+      "individual, reusable pieces of type that can be arranged to form text for printing",
+      "a unit of typographic measurement equal to half an em",
+      "the curved stroke that encloses a counter, as in the letters 'b' or 'p'"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 429,
+    "category": "Typography Terms",
+    "prompt": "Which typographic term describes a unit of typographic measurement equal to half an em?",
+    "options": [
+      "Movable type",
+      "OpenType",
+      "Spine",
+      "En"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 430,
+    "category": "Typography Terms",
+    "prompt": "In typography, what does the term 'Widow' refer to?",
+    "options": [
+      "a uniform adjustment of spacing applied across a range of characters",
+      "a company or individual that designs, produces, or distributes typefaces",
+      "a short final line of a paragraph left stranded at the top of the next page or column",
+      "individual, reusable pieces of type that can be arranged to form text for printing"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 431,
+    "category": "Typography Terms",
+    "prompt": "Which of these best defines the typographic term 'Widow'?",
+    "options": [
+      "the height of a capital letter measured from the baseline",
+      "instructions embedded in a digital font to improve how it renders at small sizes",
+      "a short final line of a paragraph left stranded at the top of the next page or column",
+      "a decorative flourish that extends or replaces a normal terminal or serif"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 432,
+    "category": "Typography Terms",
+    "prompt": "Which typographic term describes a short final line of a paragraph left stranded at the top of the next page or column?",
+    "options": [
+      "Ligature",
+      "Em",
+      "OpenType",
+      "Widow"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 433,
+    "category": "Typography Terms",
+    "prompt": "In typography, what does the term 'Orphan' refer to?",
+    "options": [
+      "the end of a stroke that does not carry a serif",
+      "an enlarged capital letter at the start of a paragraph that spans several lines of text",
+      "a short first line of a paragraph left stranded at the bottom of a page or column",
+      "a slanted version of an upright typeface created by skewing the original letterforms"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 434,
+    "category": "Typography Terms",
+    "prompt": "Which of these best defines the typographic term 'Orphan'?",
+    "options": [
+      "a single glyph formed by combining two or more letters, such as 'fi'",
+      "a narrower variant of a typeface, with letters set closer together",
+      "a short first line of a paragraph left stranded at the bottom of a page or column",
+      "the part of a lowercase letter, like 'b' or 'd', that extends above the x-height"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 435,
+    "category": "Typography Terms",
+    "prompt": "Which typographic term describes a short first line of a paragraph left stranded at the bottom of a page or column?",
+    "options": [
+      "Spine",
+      "Crossbar",
+      "Orphan",
+      "Swash"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 436,
+    "category": "Typography Terms",
+    "prompt": "In typography, what does the term 'Glyph' refer to?",
+    "options": [
+      "the curved part that connects a serif to the main stroke of a letter",
+      "a uniform adjustment of spacing applied across a range of characters",
+      "a specific visual shape used to represent a character or part of one",
+      "the curved stroke that encloses a counter, as in the letters 'b' or 'p'"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 437,
+    "category": "Typography Terms",
+    "prompt": "Which of these best defines the typographic term 'Glyph'?",
+    "options": [
+      "a specific visual shape used to represent a character or part of one",
+      "a uniform adjustment of spacing applied across a range of characters",
+      "the unit, based on points, used to measure the size of type",
+      "the horizontal stroke connecting two strokes, as in 'A' or 'H'"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 438,
+    "category": "Typography Terms",
+    "prompt": "Which typographic term describes a specific visual shape used to represent a character or part of one?",
+    "options": [
+      "Ear",
+      "Pica",
+      "Point size",
+      "Glyph"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 439,
+    "category": "Typography Terms",
+    "prompt": "In typography, what does the term 'Drop cap' refer to?",
+    "options": [
+      "a specific visual shape used to represent a character or part of one",
+      "an enlarged capital letter at the start of a paragraph that spans several lines of text",
+      "the part of a lowercase letter, like 'b' or 'd', that extends above the x-height",
+      "the enclosed or partially enclosed space within a letter such as 'o' or 'e'"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 440,
+    "category": "Typography Terms",
+    "prompt": "Which of these best defines the typographic term 'Drop cap'?",
+    "options": [
+      "the invisible line on which most letters visually rest",
+      "an enlarged capital letter at the start of a paragraph that spans several lines of text",
+      "a decorative flourish that extends or replaces a normal terminal or serif",
+      "a font format jointly developed by Microsoft and Adobe"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 441,
+    "category": "Typography Terms",
+    "prompt": "Which typographic term describes an enlarged capital letter at the start of a paragraph that spans several lines of text?",
+    "options": [
+      "Bowl",
+      "Ear",
+      "Drop cap",
+      "Small caps"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 442,
+    "category": "Typography Terms",
+    "prompt": "In typography, what does the term 'Pica' refer to?",
+    "options": [
+      "a single glyph formed by combining two or more letters, such as 'fi'",
+      "the height of a capital letter measured from the baseline",
+      "a traditional unit of typographic measurement equal to 12 points",
+      "a unit of typographic measurement equal to half an em"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 443,
+    "category": "Typography Terms",
+    "prompt": "Which of these best defines the typographic term 'Pica'?",
+    "options": [
+      "a single font file that can render a continuous range of weights, widths, or styles",
+      "a traditional unit of typographic measurement equal to 12 points",
+      "the point at the top of a letter where two diagonal strokes meet, as in 'A'",
+      "a single glyph formed by combining two or more letters, such as 'fi'"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 444,
+    "category": "Typography Terms",
+    "prompt": "Which typographic term describes a traditional unit of typographic measurement equal to 12 points?",
+    "options": [
+      "Lining figures",
+      "Sans-serif",
+      "Letterpress",
+      "Pica"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 445,
+    "category": "Typography Terms",
+    "prompt": "In typography, what does the term 'Monospace' refer to?",
+    "options": [
+      "a small stroke projecting from the top of letters like lowercase 'g' or 'r'",
+      "a uniform adjustment of spacing applied across a range of characters",
+      "a single font file that can render a continuous range of weights, widths, or styles",
+      "a typeface in which every character occupies exactly the same horizontal width"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 446,
+    "category": "Typography Terms",
+    "prompt": "Which of these best defines the typographic term 'Monospace'?",
+    "options": [
+      "numerals of varying heights, some with ascenders or descenders, that blend into text",
+      "a typeface in which every character occupies exactly the same horizontal width",
+      "an enlarged capital letter at the start of a paragraph that spans several lines of text",
+      "the overall design of a set of letterforms, as distinct from a specific file or size of it"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 447,
+    "category": "Typography Terms",
+    "prompt": "Which typographic term describes a typeface in which every character occupies exactly the same horizontal width?",
+    "options": [
+      "Sans-serif",
+      "Ligature",
+      "Foundry",
+      "Monospace"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 448,
+    "category": "Typography Terms",
+    "prompt": "In typography, what does the term 'Condensed' refer to?",
+    "options": [
+      "a narrower variant of a typeface, with letters set closer together",
+      "instructions embedded in a digital font to improve how it renders at small sizes",
+      "the unit, based on points, used to measure the size of type",
+      "a slanted version of an upright typeface created by skewing the original letterforms"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 449,
+    "category": "Typography Terms",
+    "prompt": "Which of these best defines the typographic term 'Condensed'?",
+    "options": [
+      "the part of a lowercase letter, like 'g' or 'p', that extends below the baseline",
+      "a narrower variant of a typeface, with letters set closer together",
+      "the unit, based on points, used to measure the size of type",
+      "the point at the top of a letter where two diagonal strokes meet, as in 'A'"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 450,
+    "category": "Typography Terms",
+    "prompt": "Which typographic term describes a narrower variant of a typeface, with letters set closer together?",
+    "options": [
+      "Bracket",
+      "Ligature",
+      "Condensed",
+      "Stem"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 451,
+    "category": "Typography Terms",
+    "prompt": "In typography, what does the term 'Hinting' refer to?",
+    "options": [
+      "instructions embedded in a digital font to improve how it renders at small sizes",
+      "a relief printing technique that applies ink using raised, inked surfaces",
+      "a short final line of a paragraph left stranded at the top of the next page or column",
+      "the adjustment of space between two specific letters to improve visual spacing"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 452,
+    "category": "Typography Terms",
+    "prompt": "Which of these best defines the typographic term 'Hinting'?",
+    "options": [
+      "instructions embedded in a digital font to improve how it renders at small sizes",
+      "a narrower variant of a typeface, with letters set closer together",
+      "a small stroke projecting from the top of letters like lowercase 'g' or 'r'",
+      "capital letterforms drawn at roughly the height of lowercase letters"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 453,
+    "category": "Typography Terms",
+    "prompt": "Which typographic term describes instructions embedded in a digital font to improve how it renders at small sizes?",
+    "options": [
+      "Hinting",
+      "Small caps",
+      "Ear",
+      "Weight"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 454,
+    "category": "Typography Terms",
+    "prompt": "In typography, what does the term 'Foundry' refer to?",
+    "options": [
+      "the enclosed or partially enclosed space within a letter such as 'o' or 'e'",
+      "a company or individual that designs, produces, or distributes typefaces",
+      "the height of a capital letter measured from the baseline",
+      "capital letterforms drawn at roughly the height of lowercase letters"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 455,
+    "category": "Typography Terms",
+    "prompt": "Which of these best defines the typographic term 'Foundry'?",
+    "options": [
+      "a relief printing technique that applies ink using raised, inked surfaces",
+      "a style of type with letterforms redrawn at a slant, distinct from simple slanting",
+      "a company or individual that designs, produces, or distributes typefaces",
+      "the horizontal stroke connecting two strokes, as in 'A' or 'H'"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 456,
+    "category": "Typography Terms",
+    "prompt": "Which typographic term describes a company or individual that designs, produces, or distributes typefaces?",
+    "options": [
+      "Em",
+      "Cap height",
+      "Foundry",
+      "Baseline"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 457,
+    "category": "Typography Terms",
+    "prompt": "In typography, what does the term 'Letterpress' refer to?",
+    "options": [
+      "instructions embedded in a digital font to improve how it renders at small sizes",
+      "a small stroke projecting from the top of letters like lowercase 'g' or 'r'",
+      "a relief printing technique that applies ink using raised, inked surfaces",
+      "the adjustment of space between two specific letters to improve visual spacing"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 458,
+    "category": "Typography Terms",
+    "prompt": "Which of these best defines the typographic term 'Letterpress'?",
+    "options": [
+      "a specific visual shape used to represent a character or part of one",
+      "the relative thickness of the strokes making up a typeface, such as light or bold",
+      "capital letterforms drawn at roughly the height of lowercase letters",
+      "a relief printing technique that applies ink using raised, inked surfaces"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 459,
+    "category": "Typography Terms",
+    "prompt": "Which typographic term describes a relief printing technique that applies ink using raised, inked surfaces?",
+    "options": [
+      "Lining figures",
+      "Weight",
+      "Oblique",
+      "Letterpress"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 460,
+    "category": "Typography Terms",
+    "prompt": "In typography, what does the term 'Movable type' refer to?",
+    "options": [
+      "the part of a lowercase letter, like 'b' or 'd', that extends above the x-height",
+      "individual, reusable pieces of type that can be arranged to form text for printing",
+      "the curved part that connects a serif to the main stroke of a letter",
+      "a relief printing technique that applies ink using raised, inked surfaces"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 461,
+    "category": "Typography Terms",
+    "prompt": "Which of these best defines the typographic term 'Movable type'?",
+    "options": [
+      "a short first line of a paragraph left stranded at the bottom of a page or column",
+      "an enlarged capital letter at the start of a paragraph that spans several lines of text",
+      "a unit of typographic measurement equal to half an em",
+      "individual, reusable pieces of type that can be arranged to form text for printing"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 462,
+    "category": "Typography Terms",
+    "prompt": "Which typographic term describes individual, reusable pieces of type that can be arranged to form text for printing?",
+    "options": [
+      "Oblique",
+      "En",
+      "Movable type",
+      "Baseline"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 463,
+    "category": "Typography Terms",
+    "prompt": "In typography, what does the term 'OpenType' refer to?",
+    "options": [
+      "a font format jointly developed by Microsoft and Adobe",
+      "a traditional unit of typographic measurement equal to 12 points",
+      "the relative thickness of the strokes making up a typeface, such as light or bold",
+      "the vertical space between the baselines of consecutive lines of type"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 464,
+    "category": "Typography Terms",
+    "prompt": "Which of these best defines the typographic term 'OpenType'?",
+    "options": [
+      "a single font file that can render a continuous range of weights, widths, or styles",
+      "individual, reusable pieces of type that can be arranged to form text for printing",
+      "a font format originally developed by Apple in the late 1980s",
+      "a font format jointly developed by Microsoft and Adobe"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 465,
+    "category": "Typography Terms",
+    "prompt": "Which typographic term describes a font format jointly developed by Microsoft and Adobe?",
+    "options": [
+      "Sans-serif",
+      "Weight",
+      "OpenType",
+      "Glyph"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 466,
+    "category": "Typography Terms",
+    "prompt": "In typography, what does the term 'TrueType' refer to?",
+    "options": [
+      "a font format originally developed by Apple in the late 1980s",
+      "a unit of typographic measurement equal to the point size of the type",
+      "a traditional unit of typographic measurement equal to 12 points",
+      "the unit, based on points, used to measure the size of type"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 467,
+    "category": "Typography Terms",
+    "prompt": "Which of these best defines the typographic term 'TrueType'?",
+    "options": [
+      "a font format originally developed by Apple in the late 1980s",
+      "the relative thickness of the strokes making up a typeface, such as light or bold",
+      "instructions embedded in a digital font to improve how it renders at small sizes",
+      "the point at the top of a letter where two diagonal strokes meet, as in 'A'"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 468,
+    "category": "Typography Terms",
+    "prompt": "Which typographic term describes a font format originally developed by Apple in the late 1980s?",
+    "options": [
+      "Widow",
+      "Drop cap",
+      "Typeface",
+      "TrueType"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 469,
+    "category": "Typography Terms",
+    "prompt": "In typography, what does the term 'Variable font' refer to?",
+    "options": [
+      "capital letterforms drawn at roughly the height of lowercase letters",
+      "the height of a capital letter measured from the baseline",
+      "the vertical space between the baselines of consecutive lines of type",
+      "a single font file that can render a continuous range of weights, widths, or styles"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 470,
+    "category": "Typography Terms",
+    "prompt": "Which of these best defines the typographic term 'Variable font'?",
+    "options": [
+      "the height of a capital letter measured from the baseline",
+      "a typeface whose letters have no small projecting strokes at their ends",
+      "a single font file that can render a continuous range of weights, widths, or styles",
+      "a slanted version of an upright typeface created by skewing the original letterforms"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 471,
+    "category": "Typography Terms",
+    "prompt": "Which typographic term describes a single font file that can render a continuous range of weights, widths, or styles?",
+    "options": [
+      "Counter",
+      "Variable font",
+      "Bowl",
+      "Drop cap"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 472,
+    "category": "Typography Terms",
+    "prompt": "In typography, what does the term 'Typeface' refer to?",
+    "options": [
+      "an enlarged capital letter at the start of a paragraph that spans several lines of text",
+      "a company or individual that designs, produces, or distributes typefaces",
+      "the overall design of a set of letterforms, as distinct from a specific file or size of it",
+      "a short final line of a paragraph left stranded at the top of the next page or column"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 473,
+    "category": "Typography Terms",
+    "prompt": "Which of these best defines the typographic term 'Typeface'?",
+    "options": [
+      "a relief printing technique that applies ink using raised, inked surfaces",
+      "capital letterforms drawn at roughly the height of lowercase letters",
+      "the overall design of a set of letterforms, as distinct from a specific file or size of it",
+      "a single glyph formed by combining two or more letters, such as 'fi'"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 474,
+    "category": "Typography Terms",
+    "prompt": "Which typographic term describes the overall design of a set of letterforms, as distinct from a specific file or size of it?",
+    "options": [
+      "X-height",
+      "Baseline",
+      "Typeface",
+      "Sans-serif"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 475,
+    "category": "Typography Terms",
+    "prompt": "In typography, what does the term 'Point size' refer to?",
+    "options": [
+      "the unit, based on points, used to measure the size of type",
+      "the overall design of a set of letterforms, as distinct from a specific file or size of it",
+      "a specific visual shape used to represent a character or part of one",
+      "a unit of typographic measurement equal to the point size of the type"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 476,
+    "category": "Typography Terms",
+    "prompt": "Which of these best defines the typographic term 'Point size'?",
+    "options": [
+      "capital letterforms drawn at roughly the height of lowercase letters",
+      "the unit, based on points, used to measure the size of type",
+      "a unit of typographic measurement equal to the point size of the type",
+      "a specific visual shape used to represent a character or part of one"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 477,
+    "category": "Typography Terms",
+    "prompt": "Which typographic term describes the unit, based on points, used to measure the size of type?",
+    "options": [
+      "Monospace",
+      "Glyph",
+      "Point size",
+      "Cap height"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 478,
+    "category": "Typography Terms",
+    "prompt": "In typography, what does the term 'Italic' refer to?",
+    "options": [
+      "a unit of typographic measurement equal to the point size of the type",
+      "a style of type with letterforms redrawn at a slant, distinct from simple slanting",
+      "a font format originally developed by Apple in the late 1980s",
+      "individual, reusable pieces of type that can be arranged to form text for printing"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 479,
+    "category": "Typography Terms",
+    "prompt": "Which of these best defines the typographic term 'Italic'?",
+    "options": [
+      "a style of type with letterforms redrawn at a slant, distinct from simple slanting",
+      "a traditional unit of typographic measurement equal to 12 points",
+      "a small stroke projecting from the top of letters like lowercase 'g' or 'r'",
+      "a small line or stroke attached to the end of a larger stroke in a letter"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 480,
+    "category": "Typography Terms",
+    "prompt": "Which typographic term describes a style of type with letterforms redrawn at a slant, distinct from simple slanting?",
+    "options": [
+      "Ear",
+      "Italic",
+      "Ligature",
+      "Apex"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 481,
+    "category": "Typeface Classification",
+    "prompt": "Which of these typefaces is classified as a serif design (the other three are sans-serif)?",
+    "options": [
+      "Segoe UI",
+      "Times New Roman",
+      "Arial",
+      "Roboto"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 482,
+    "category": "Typeface Classification",
+    "prompt": "Which of these typefaces is classified as a sans-serif design (the other three are serif)?",
+    "options": [
+      "Times New Roman",
+      "Helvetica",
+      "Cambria",
+      "Bodoni"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 483,
+    "category": "Typeface Designers",
+    "prompt": "The letterforms of Times New Roman were designed by which person or team?",
+    "options": [
+      "Matthew Carter",
+      "Lucas de Groot",
+      "Max Miedinger",
+      "Stanley Morison & Victor Lardent"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 484,
+    "category": "Typeface History",
+    "prompt": "Times New Roman first saw use in which year?",
+    "options": [
+      "1932",
+      "1798",
+      "2011",
+      "1992"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 485,
+    "category": "Typeface Designers",
+    "prompt": "The letterforms of Helvetica were designed by which person or team?",
+    "options": [
+      "Christian Robertson",
+      "Matthew Carter",
+      "Max Miedinger",
+      "Lukasz Dziedzic"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 486,
+    "category": "Typeface History",
+    "prompt": "Helvetica first saw use in which year?",
+    "options": [
+      "2011",
+      "1957",
+      "1970",
+      "1996"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 487,
+    "category": "Typeface Designers",
+    "prompt": "The letterforms of Garamond were designed by which person or team?",
+    "options": [
+      "Hermann Zapf",
+      "Monotype Design Studio",
+      "Adrian Frutiger",
+      "Claude Garamond"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 488,
+    "category": "Typeface History",
+    "prompt": "Garamond first saw use in which year?",
+    "options": [
+      "1530s",
+      "1957",
+      "1989",
+      "1799"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 489,
+    "category": "Typeface Designers",
+    "prompt": "The letterforms of Futura were designed by which person or team?",
+    "options": [
+      "John Baskerville",
+      "Adrian Frutiger",
+      "Paul Renner",
+      "Giambattista Bodoni"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 490,
+    "category": "Typeface History",
+    "prompt": "Futura first saw use in which year?",
+    "options": [
+      "1993",
+      "1934",
+      "1948",
+      "1927"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 491,
+    "category": "Typeface Designers",
+    "prompt": "The letterforms of Gill Sans were designed by which person or team?",
+    "options": [
+      "Adrian Frutiger",
+      "Stanley Morison & Victor Lardent",
+      "Vincent Connare",
+      "Eric Gill"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 492,
+    "category": "Typeface History",
+    "prompt": "Gill Sans first saw use in which year?",
+    "options": [
+      "2004",
+      "1989",
+      "1928",
+      "2015"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 493,
+    "category": "Typeface Designers",
+    "prompt": "The letterforms of Baskerville were designed by which person or team?",
+    "options": [
+      "Julieta Ulanovsky",
+      "John Baskerville",
+      "Carol Twombly",
+      "William Caslon"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 494,
+    "category": "Typeface History",
+    "prompt": "Baskerville first saw use in which year?",
+    "options": [
+      "1989",
+      "1757",
+      "1994",
+      "1934"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 495,
+    "category": "Typeface Designers",
+    "prompt": "The letterforms of Bodoni were designed by which person or team?",
+    "options": [
+      "Frederic Goudy",
+      "Giambattista Bodoni",
+      "John Baskerville",
+      "Carol Twombly"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 496,
+    "category": "Typeface History",
+    "prompt": "Bodoni first saw use in which year?",
+    "options": [
+      "1989",
+      "1994",
+      "1798",
+      "2015"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 497,
+    "category": "Typeface Designers",
+    "prompt": "The letterforms of Caslon were designed by which person or team?",
+    "options": [
+      "William Caslon",
+      "Eric Gill",
+      "Carol Twombly",
+      "Monotype Design Studio"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 498,
+    "category": "Typeface History",
+    "prompt": "Caslon first saw use in which year?",
+    "options": [
+      "2011",
+      "1799",
+      "1992",
+      "1722"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 499,
+    "category": "Typeface Designers",
+    "prompt": "The letterforms of Comic Sans were designed by which person or team?",
+    "options": [
+      "Stanley Morison & Victor Lardent",
+      "Vincent Connare",
+      "Frederic Goudy",
+      "Robin Nicholas & Patricia Saunders"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 500,
+    "category": "Typeface History",
+    "prompt": "Comic Sans first saw use in which year?",
+    "options": [
+      "1932",
+      "2015",
+      "1994",
+      "1970"
+    ],
+    "correctIndex": 2
+  }
+]

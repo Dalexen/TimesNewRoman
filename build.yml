@@ -43,6 +43,30 @@ jobs:
             CODE_SIGNING_ALLOWED=NO \
             clean build
 
+      - name: Build unsigned .app for a real iPhone
+        run: |
+          xcodebuild \
+            -project TimesNewRoman.xcodeproj \
+            -scheme TimesNewRoman \
+            -destination "generic/platform=iOS" \
+            -configuration Release \
+            -derivedDataPath build \
+            CODE_SIGNING_ALLOWED=NO \
+            CODE_SIGNING_REQUIRED=NO \
+            clean build
+
+      - name: Package unsigned .ipa
+        run: |
+          mkdir -p Payload
+          cp -r "build/Build/Products/Release-iphoneos/Times New Roman.app" Payload/
+          zip -r TimesNewRoman-unsigned.ipa Payload
+
+      - name: Upload unsigned IPA
+        uses: actions/upload-artifact@v4
+        with:
+          name: TimesNewRoman-unsigned-ipa
+          path: TimesNewRoman-unsigned.ipa
+
       - name: Upload build log on failure
         if: failure()
         uses: actions/upload-artifact@v4

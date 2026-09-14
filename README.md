@@ -72,7 +72,30 @@ why this repo avoids subfolders. If you're uploading via the GitHub web UI:
    folder structure automatically —
    `git init && git add . && git commit -m "init" && git branch -M main && git remote add origin <your-repo-url> && git push -u origin main`.
 
-## CI
+## Getting it onto your iPhone (free Apple ID)
+
+CI builds an **unsigned** `.ipa` (real code signing needs an interactive
+Apple ID login, which shouldn't be put into GitHub Actions secrets). To
+install it on your own iPhone with a free Apple ID:
+
+1. On GitHub, open the finished workflow run → scroll to **Artifacts** →
+   download `TimesNewRoman-unsigned-ipa`.
+2. Install a sideloading tool that signs IPAs with your own Apple ID locally
+   (your Apple credentials stay on your machine/device, never touch CI):
+   - [Sideloadly](https://sideloadly.io/) (Windows/Mac) — drag the `.ipa` in,
+     sign in with your Apple ID, it installs over USB.
+   - [AltStore](https://altstore.io/) / [SideStore](https://sidestore.io/) —
+     install an AltServer companion, then use it to sideload the `.ipa`.
+3. Free Apple ID signatures expire after 7 days — reinstall (same steps) to
+   refresh, or switch to a paid Apple Developer account for 1-year signing.
+4. On first launch, you'll need to trust the developer certificate:
+   **Settings → General → VPN & Device Management → [your Apple ID] → Trust**.
+
+If you'd rather not deal with 7-day re-signing, a paid Apple Developer
+Program membership ($99/yr) lets you set up proper CI signing with a
+certificate + provisioning profile stored as GitHub secrets — ask and I can
+wire that up instead.
+
 
 `.github/workflows/build.yml` runs on `macos-26` GitHub-hosted runners,
 regenerates the Xcode project with XcodeGen, and does an unsigned build for
